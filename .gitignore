@@ -1,0 +1,18 @@
+# Sistema
+Thumbs.db
+Desktop.ini
+
+# Temporales
+*.tmp
+*.bak
+*.log
+
+# Entornos y caches
+node_modules/
+.venv/
+__pycache__/
+.pytest_cache/
+
+# Archivos grandes locales no curados
+manuales/pdf/**/*.download
+manuales/pdf/**/*.part
