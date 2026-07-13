@@ -44,6 +44,7 @@
 - `vehiculos/aviones-pasajeros`
 - `vehiculos/aviones-combate`
 - `vehiculos/helicopteros`
+- `vehiculos/drones`
 - `vehiculos/naves-espaciales`
 
 ## Naves de ficcion (seccion educativa)
@@ -54,6 +55,9 @@
 - `vehiculos-fantasticos/nave-exploracion`
 - `vehiculos-fantasticos/nautilus`
 - `vehiculos-fantasticos/caza-transformable`
+- `vehiculos-fantasticos/halcon-milenario`
+- `vehiculos-fantasticos/sdf-1`
+- `vehiculos-fantasticos/estrella-de-la-muerte`
 
 ## Plantillas
 

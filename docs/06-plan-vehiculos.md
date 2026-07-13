@@ -42,7 +42,8 @@ Objetivo: documentar propulsion naval, gobierno por timon, navegacion, comunicac
 1. Aviones pequenos
 2. Aviones de pasajeros
 3. Helicopteros
-4. Aviones de combate
+4. Drones (RPAS)
+5. Aviones de combate
 
 Objetivo: estudiar sustentacion, superficies de control, instrumentos de vuelo, navegacion aerea, reglas basicas y diferencias entre simulacion civil y militar.
 

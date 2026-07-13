@@ -240,7 +240,18 @@ reglamentacion **DAN 61** (licencias para pilotos y sus habilitaciones), con
 certificado medico aeronautico. Los usos incluyen rescate, transporte, trabajo
 aereo (extincion de incendios, carga externa) y servicios medicos.
 
-### 3.3 Aviones de combate
+### 3.3 Drones (RPAS)
+
+Las **aeronaves pilotadas a distancia (RPAS / UAV)** civiles se rigen por la
+**DGAC** a traves de la norma **DAN 151** (operaciones de aeronaves pilotadas a
+distancia). El marco general cubre el registro del aparato, la responsabilidad
+del piloto a distancia, y restricciones de operacion como no volar sobre
+aglomeraciones de personas, respetar zonas prohibidas y la cercania de
+aeropuertos. Los umbrales exactos (peso, altura maxima, distancias) y la
+edicion vigente de la DAN 151 se listan en datos por reconfirmar. Fuente:
+<https://www.dgac.gob.cl>.
+
+### 3.4 Aviones de combate
 
 Marco publico unicamente. Las aeronaves militares de la **Fuerza Aerea de Chile
 (FACH)** se rigen por normativa militar (marco de la Ley 18.948) y no por las
@@ -297,6 +308,7 @@ exacta. Verificar en el texto vigente antes de tomarlos como definitivos.
 - **Ferroviario**: numero y fecha exactos de la Ley General de Ferrocarriles y sus reglamentos; regimen de habilitacion de maquinistas.
 - **Maquinaria de izaje fija**: normas especificas de certificacion del operador de grua y de montaje de grua torre.
 - **Helicopteros**: confirmar edicion vigente de la DAN 61 aplicable a la licencia de helicoptero.
+- **Drones (RPAS)**: confirmar edicion vigente de la DAN 151 y los umbrales exactos de peso, altura y distancias.
 
 ## 6. Como usar este marco en la simulacion
 

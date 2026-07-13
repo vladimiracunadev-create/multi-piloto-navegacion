@@ -7,8 +7,8 @@
 [![Validar documentacion](https://github.com/vladimiracunadev-create/multi-piloto-navegacion/actions/workflows/validar-documentacion.yml/badge.svg)](https://github.com/vladimiracunadev-create/multi-piloto-navegacion/actions/workflows/validar-documentacion.yml)
 [![Verificar enlaces](https://github.com/vladimiracunadev-create/multi-piloto-navegacion/actions/workflows/enlaces.yml/badge.svg)](https://github.com/vladimiracunadev-create/multi-piloto-navegacion/actions/workflows/enlaces.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-![Vehiculos](https://img.shields.io/badge/vehiculos-22-blue)
-![Ficcion](https://img.shields.io/badge/naves%20de%20ficcion-5-purple)
+![Vehiculos](https://img.shields.io/badge/vehiculos-23-blue)
+![Ficcion](https://img.shields.io/badge/naves%20de%20ficcion-8-purple)
 ![Enfoque](https://img.shields.io/badge/enfoque-educativo%20y%20seguro-green)
 
 </div>
@@ -47,9 +47,11 @@ flowchart TD
     Riel --> R1[🚆 Pasajeros · 🚄 Alta velocidad · 🚂 Carga]
     Mar --> M1[🚢 Mercantes · ⛴️ Cruceros · 🛳️ Portaviones]
     Mar --> M2[🛡️ Acorazados · 🌊 Submarinos]
-    Aire --> A1[🛩️ Avionetas · 🛫 Pasajeros · ✈️ Combate · 🚁 Helicopteros]
+    Aire --> A1[🛩️ Avionetas · 🛫 Pasajeros · ✈️ Combate]
+    Aire --> A2[🚁 Helicopteros · 🕹️ Drones]
     Espacio --> E1[🚀 Naves espaciales]
-    Fic --> F1[🕰️ DeLorean · 🛸 Caza estelar · 🌌 Exploracion · 🐙 Nautilus · 🤖 Transformable]
+    Fic --> F1[🕰️ DeLorean · 🛸 Caza estelar · 🌌 Exploracion · 🐙 Nautilus]
+    Fic --> F2[🤖 Transformable · 🦅 Halcon · 🏯 SDF-1 · 🌑 Estrella de la Muerte]
 ```
 
 ---
@@ -98,6 +100,7 @@ Cada vehiculo es un curso con 9 modulos (ver
 | [🛩️ Aviones pequenos](vehiculos/aviones-pequenos/README.md) | Sustentacion, instrumentos y navegacion aerea. | DGAC / OACI |
 | [🛫 Aviones de pasajeros](vehiculos/aviones-pasajeros/README.md) | Aviacion comercial, sistemas y operacion de linea. | DGAC / ATP |
 | [🚁 Helicopteros](vehiculos/helicopteros/README.md) | Vuelo de ala rotatoria, rotor y maniobra. | DGAC / DAN 61 |
+| [🕹️ Drones](vehiculos/drones/README.md) | Aeronaves pilotadas a distancia (RPAS), multirotor y ala fija. | DGAC / DAN 151 |
 | [✈️ Aviones de combate](vehiculos/aviones-combate/README.md) | Fisica del vuelo e historia (marco publico). | FACH |
 | [🚀 Naves espaciales](vehiculos/naves-espaciales/README.md) | Orbitas, propulsion y soporte vital. | Tratados UNOOSA |
 
@@ -118,6 +121,9 @@ respectivos autores; ver el aviso en el
 | [🌌 Nave de exploracion](vehiculos-fantasticos/nave-exploracion/README.md) | Estilo "Star Trek" | Viaje interestelar y ciencia. |
 | [🐙 Nautilus](vehiculos-fantasticos/nautilus/README.md) | Julio Verne (dominio publico) | Submarino visionario del siglo XIX. |
 | [🤖 Caza transformable](vehiculos-fantasticos/caza-transformable/README.md) | Estilo "Robotech" | Aeronave que se transforma. |
+| [🦅 Halcon Milenario](vehiculos-fantasticos/halcon-milenario/README.md) | Estilo "Star Wars" | Carguero rapido: empuje, masa y maniobra. |
+| [🏯 SDF-1](vehiculos-fantasticos/sdf-1/README.md) | Estilo "Robotech" | Nave-fortaleza gigante: escala y estructura. |
+| [🌑 Estrella de la Muerte](vehiculos-fantasticos/estrella-de-la-muerte/README.md) | Estilo "Star Wars" | Estacion del tamano de una luna: gravedad y energia. |
 
 ---
 

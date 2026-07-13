@@ -9,7 +9,9 @@ y el proyecto usa [Versionado Semantico](https://semver.org/lang/es/).
 
 ### Anadido
 
-- Seis cursos reales mas: 🚆 tren de pasajeros, 🚄 tren de alta velocidad y 🚂 tren de carga (ferroviarios); ⚓ grua portuaria y 🗼 grua torre (izaje fijo); 🚁 helicopteros (aereo). Total: 22 vehiculos reales.
+- Curso de 🕹️ drones (RPAS): aeronaves pilotadas a distancia, multirotor y ala fija, con marco DGAC / DAN 151. Total: 23 vehiculos reales.
+- Tres naves de ficcion mas: 🦅 Halcon Milenario, 🏯 SDF-1 y 🌑 Estrella de la Muerte (analisis fisico educativo, contenido original con aviso de derechos). Total: 8 naves de ficcion.
+- Seis cursos reales mas: 🚆 tren de pasajeros, 🚄 tren de alta velocidad y 🚂 tren de carga (ferroviarios); ⚓ grua portuaria y 🗼 grua torre (izaje fijo); 🚁 helicopteros (aereo).
 - Nueva seccion **naves de ficcion** (`vehiculos-fantasticos/`), educativa y separada de los vehiculos reales, con 5 cursos (DeLorean, caza estelar, nave de exploracion, Nautilus, caza transformable) y aviso de derechos de autor.
 - Marco legal ampliado con ferroviario (Ley General de Ferrocarriles, EFE), maquinaria de izaje fija (Ley 16.744, D.S. 594) y helicopteros (DAN 61).
 - Cinco cursos nuevos integrados por dominio: 🚛 camiones, 🚜 tractores y 🚧 maquinaria de construccion (terrestres), ⛴️ cruceros (maritimo de pasajeros) y 🛫 aviones de pasajeros (aviacion comercial).

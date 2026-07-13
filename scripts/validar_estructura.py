@@ -43,6 +43,7 @@ VEHICULOS = [
     "aviones-pasajeros",
     "aviones-combate",
     "helicopteros",
+    "drones",
     "naves-espaciales",
 ]
 
@@ -53,6 +54,9 @@ FANTASTICOS = [
     "nave-exploracion",
     "nautilus",
     "caza-transformable",
+    "halcon-milenario",
+    "sdf-1",
+    "estrella-de-la-muerte",
 ]
 
 SECCIONES_VEHICULO = [

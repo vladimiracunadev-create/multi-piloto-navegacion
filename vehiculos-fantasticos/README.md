@@ -35,6 +35,9 @@ abre un issue y se ajustara.
 | [🌌 Nave de exploracion](nave-exploracion/README.md) | Estilo "Star Trek" | Viaje interestelar, distancias y limites de la fisica. |
 | [🐙 Nautilus](nautilus/README.md) | Julio Verne (dominio publico) | Submarino visionario: flotabilidad y autonomia. |
 | [🤖 Caza transformable](caza-transformable/README.md) | Estilo "Robotech" | Un vehiculo, tres modos: aerodinamica y mecanismos. |
+| [🦅 Halcon Milenario](halcon-milenario/README.md) | Estilo "Star Wars" | Carguero rapido: empuje, masa, maniobra y "hiperimpulso". |
+| [🏯 SDF-1](sdf-1/README.md) | Estilo "Robotech" | Nave-fortaleza gigante: escala, estructura y masa. |
+| [🌑 Estrella de la Muerte](estrella-de-la-muerte/README.md) | Estilo "Star Wars" | Estacion del tamano de una luna: gravedad, energia y calor. |
 
 ---
 
