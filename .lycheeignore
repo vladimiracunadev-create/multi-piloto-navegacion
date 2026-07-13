@@ -1,7 +1,15 @@
 # Dominios o URLs que el verificador de enlaces (lychee) debe ignorar.
-# Una URL o expresion regular por linea. Se usa para sitios que bloquean bots
-# o que responden de forma intermitente, no para ocultar enlaces realmente rotos.
+# Una expresion regular por linea. Se usa para sitios validos que fallan la
+# comprobacion AUTOMATIZADA (certificado TLS no reconocido por el runner,
+# bloqueo de bots o timeouts), NO para ocultar enlaces realmente rotos.
+# Todos estos sitios funcionan correctamente en un navegador.
 
-# Los visores dinamicos de la Biblioteca del Congreso a veces no responden a
-# clientes automatizados aunque el enlace sea valido en el navegador.
-https://www.bcn.cl/leychile/.*
+# Biblioteca del Congreso: el visor dinamico no siempre responde a bots.
+^https://www\.bcn\.cl/leychile/.*
+
+# CONASET: la cadena de certificado TLS del servidor no es reconocida por el
+# runner de CI (rustls), aunque el sitio es valido en el navegador.
+^https://(www\.)?conaset\.cl/.*
+
+# MTT: el portal responde con timeout ante clientes automatizados.
+^https://(www\.)?mtt\.gob\.cl/.*
