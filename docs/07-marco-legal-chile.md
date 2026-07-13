@@ -57,7 +57,9 @@ Correspondencia rapida por vehiculo del repositorio:
 - Moto: **Clase C**.
 - Automovil particular: **Clase B**.
 - Bus de transporte publico: **Clase A-3** (o A-2 para 10 a 17 asientos).
-- Grua / maquinaria automotriz: **Clase D**.
+- Camion simple de carga (mas de 3.500 kg): **Clase A-4**.
+- Camion articulado (tractocamion con acoplado): **Clase A-5**.
+- Grua, tractor y maquinaria de construccion (maquinaria automotriz): **Clase D**.
 
 Edad minima general (Art. 13): 18 anos para clases B y C. Las clases
 profesionales exigen edad mayor y haber sido titular previo de licencia Clase B
@@ -131,6 +133,11 @@ Reglamento de Titulos Profesionales y Permisos de Embarco (TM-007A) y al D.S.
 127/2019. Escalafon de cubierta: Capitan, Piloto Primero, Segundo, Tercero y
 Piloto Costero. Fuente: <https://www.directemar.cl>.
 
+**Cruceros (buques de pasajeros)**: siguen el mismo marco (DL 2.222 y OMI), con
+mayor exigencia de seguridad de pasajeros bajo SOLAS, planes de evacuacion, y
+personal titulado bajo STCW. La Autoridad Maritima (DIRECTEMAR) fiscaliza el
+cumplimiento en aguas de jurisdiccion nacional.
+
 Convenios internacionales que Chile aplica a traves de DIRECTEMAR:
 
 | Convenio | Objeto | Promulgacion en Chile |
@@ -192,6 +199,12 @@ Fuente: <https://www.dgac.gob.cl/licencias/>.
 Marco internacional: **Convenio de Chicago 1944** (crea la OACI / ICAO),
 promulgado en Chile por D.S. (RREE) 509 bis de 1957. La reglamentacion DAR/DAN
 implementa en Chile los estandares y practicas recomendadas de sus Anexos.
+
+**Aviones de pasajeros (aviacion comercial)**: operados por explotadores aereos
+certificados (AOC) bajo la fiscalizacion de la DGAC. La tripulacion de vuelo
+requiere licencia de **Piloto de Transporte de Linea Aerea (ATP)** ademas de las
+habilitaciones de tipo, y la operacion se rige por las normas DAN aplicables al
+transporte aereo comercial y por los Anexos del Convenio de Chicago.
 
 ### 3.2 Aviones de combate
 

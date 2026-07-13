@@ -26,12 +26,17 @@
 - `vehiculos/motos` (documentado como ejemplo de referencia)
 - `vehiculos/automoviles`
 - `vehiculos/buses`
+- `vehiculos/camiones`
 - `vehiculos/gruas`
+- `vehiculos/tractores`
+- `vehiculos/maquinaria-construccion`
 - `vehiculos/barcos-mercantes`
+- `vehiculos/cruceros`
 - `vehiculos/acorazados`
 - `vehiculos/portaviones`
 - `vehiculos/submarinos`
 - `vehiculos/aviones-pequenos`
+- `vehiculos/aviones-pasajeros`
 - `vehiculos/aviones-combate`
 - `vehiculos/naves-espaciales`
 

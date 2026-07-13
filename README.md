@@ -7,7 +7,7 @@
 [![Validar documentacion](https://github.com/vladimiracunadev-create/multi-piloto-navegacion/actions/workflows/validar-documentacion.yml/badge.svg)](https://github.com/vladimiracunadev-create/multi-piloto-navegacion/actions/workflows/validar-documentacion.yml)
 [![Verificar enlaces](https://github.com/vladimiracunadev-create/multi-piloto-navegacion/actions/workflows/enlaces.yml/badge.svg)](https://github.com/vladimiracunadev-create/multi-piloto-navegacion/actions/workflows/enlaces.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-![Vehiculos](https://img.shields.io/badge/vehiculos-11-blue)
+![Vehiculos](https://img.shields.io/badge/vehiculos-16-blue)
 ![Enfoque](https://img.shields.io/badge/enfoque-educativo%20y%20seguro-green)
 
 </div>
@@ -38,9 +38,11 @@ flowchart TD
     Veh --> Mar[⚓ Maritimos]
     Veh --> Aire[✈️ Aereos]
     Veh --> Espacio[🚀 Espaciales]
-    Tierra --> T1[🏍️ Motos · 🚗 Autos · 🚌 Buses · 🏗️ Gruas]
-    Mar --> M1[🚢 Mercantes · 🛡️ Acorazados · 🛳️ Portaviones · 🌊 Submarinos]
-    Aire --> A1[🛩️ Avionetas · ✈️ Combate]
+    Tierra --> T1[🏍️ Motos · 🚗 Autos · 🚌 Buses · 🚛 Camiones]
+    Tierra --> T2[🏗️ Gruas · 🚜 Tractores · 🚧 Maquinaria]
+    Mar --> M1[🚢 Mercantes · ⛴️ Cruceros · 🛳️ Portaviones]
+    Mar --> M2[🛡️ Acorazados · 🌊 Submarinos]
+    Aire --> A1[🛩️ Avionetas · 🛫 Pasajeros · ✈️ Combate]
     Espacio --> E1[🚀 Naves espaciales]
 ```
 
@@ -58,13 +60,17 @@ Cada vehiculo es un curso con 9 modulos (ver
 | [🏍️ Motocicletas](vehiculos/motos/README.md) | Equilibrio, transmision y dinamica de dos ruedas. | Clase C |
 | [🚗 Automoviles](vehiculos/automoviles/README.md) | Direccion, motor, seguridad y transito. | Clase B |
 | [🚌 Buses](vehiculos/buses/README.md) | Transporte de pasajeros y operacion profesional. | Clase A-3 |
+| [🚛 Camiones](vehiculos/camiones/README.md) | Transporte de carga, simples y articulados. | Clase A-4 / A-5 |
 | [🏗️ Gruas](vehiculos/gruas/README.md) | Maquinaria automotriz, izaje y estabilidad. | Clase D |
+| [🚜 Tractores](vehiculos/tractores/README.md) | Maquinaria agricola, toma de fuerza y aperos. | Clase D |
+| [🚧 Maquinaria de construccion](vehiculos/maquinaria-construccion/README.md) | Excavadoras, cargadores, bulldozers y movimiento de tierra. | Clase D |
 
 ### ⚓ Maritimos
 
 | Curso | Descripcion | Marco |
 | --- | --- | --- |
 | [🚢 Barcos mercantes](vehiculos/barcos-mercantes/README.md) | Propulsion naval, gobierno y navegacion. | DIRECTEMAR / OMI |
+| [⛴️ Cruceros](vehiculos/cruceros/README.md) | Buque de pasajeros, servicios y seguridad. | DIRECTEMAR / SOLAS |
 | [🛡️ Acorazados](vehiculos/acorazados/README.md) | Historia y principios (marco publico). | Armada / CONVEMAR |
 | [🛳️ Portaviones](vehiculos/portaviones/README.md) | Aviacion naval e historia (marco publico). | Armada / CONVEMAR |
 | [🌊 Submarinos](vehiculos/submarinos/README.md) | Flotabilidad e inmersion (marco publico). | Armada / CONVEMAR |
@@ -74,6 +80,7 @@ Cada vehiculo es un curso con 9 modulos (ver
 | Curso | Descripcion | Marco |
 | --- | --- | --- |
 | [🛩️ Aviones pequenos](vehiculos/aviones-pequenos/README.md) | Sustentacion, instrumentos y navegacion aerea. | DGAC / OACI |
+| [🛫 Aviones de pasajeros](vehiculos/aviones-pasajeros/README.md) | Aviacion comercial, sistemas y operacion de linea. | DGAC / ATP |
 | [✈️ Aviones de combate](vehiculos/aviones-combate/README.md) | Fisica del vuelo e historia (marco publico). | FACH |
 | [🚀 Naves espaciales](vehiculos/naves-espaciales/README.md) | Orbitas, propulsion y soporte vital. | Tratados UNOOSA |
 

@@ -1,6 +1,9 @@
 # Vehiculos
 
-Cada tipo de vehiculo tiene su propia carpeta y conserva la misma estructura interna para facilitar comparacion, crecimiento y futura simulacion.
+Cada tipo de vehiculo tiene su propia carpeta y se documenta como un **curso**
+completo (ver [`docs/08-guia-de-estilo-y-curso.md`](../docs/08-guia-de-estilo-y-curso.md)),
+conservando la misma estructura interna para facilitar comparacion, crecimiento y
+futura simulacion.
 
 ## Estructura comun
 
@@ -16,19 +19,32 @@ vehiculo/
   recursos/
 ```
 
-## Vehiculos iniciales
+## Cursos disponibles
 
-- `motos`
-- `automoviles`
-- `buses`
-- `gruas`
-- `barcos-mercantes`
-- `acorazados`
-- `portaviones`
-- `submarinos`
-- `aviones-pequenos`
-- `aviones-combate`
-- `naves-espaciales`
+Terrestres:
+
+- 🏍️ [`motos`](motos/README.md)
+- 🚗 [`automoviles`](automoviles/README.md)
+- 🚌 [`buses`](buses/README.md)
+- 🚛 [`camiones`](camiones/README.md)
+- 🏗️ [`gruas`](gruas/README.md)
+- 🚜 [`tractores`](tractores/README.md)
+- 🚧 [`maquinaria-construccion`](maquinaria-construccion/README.md)
+
+Maritimos:
+
+- 🚢 [`barcos-mercantes`](barcos-mercantes/README.md)
+- ⛴️ [`cruceros`](cruceros/README.md)
+- 🛡️ [`acorazados`](acorazados/README.md)
+- 🛳️ [`portaviones`](portaviones/README.md)
+- 🌊 [`submarinos`](submarinos/README.md)
+
+Aereos y espaciales:
+
+- 🛩️ [`aviones-pequenos`](aviones-pequenos/README.md)
+- 🛫 [`aviones-pasajeros`](aviones-pasajeros/README.md)
+- ✈️ [`aviones-combate`](aviones-combate/README.md)
+- 🚀 [`naves-espaciales`](naves-espaciales/README.md)
 
 ## Regla de trabajo
 

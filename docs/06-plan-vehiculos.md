@@ -7,23 +7,28 @@ Este plan define el orden recomendado para completar el repositorio. La idea es 
 1. Motos
 2. Automoviles
 3. Buses
-4. Gruas
+4. Camiones
+5. Gruas
+6. Tractores
+7. Maquinaria de construccion
 
-Objetivo: dominar aceleracion, frenado, direccion, transmision, peso, estabilidad, normas de transito y ergonomia de mandos.
+Objetivo: dominar aceleracion, frenado, direccion, transmision, peso, estabilidad, normas de transito y ergonomia de mandos, desde el vehiculo mas simple hasta la maquinaria de carga y trabajo.
 
 ## Fase 2: navegacion maritima
 
 1. Barcos mercantes
-2. Acorazados
-3. Portaviones
-4. Submarinos
+2. Cruceros
+3. Acorazados
+4. Portaviones
+5. Submarinos
 
 Objetivo: documentar propulsion naval, gobierno por timon, navegacion, comunicaciones, tripulacion, seguridad, maniobras de puerto y representacion responsable de buques militares.
 
 ## Fase 3: aviacion
 
 1. Aviones pequenos
-2. Aviones de combate
+2. Aviones de pasajeros
+3. Aviones de combate
 
 Objetivo: estudiar sustentacion, superficies de control, instrumentos de vuelo, navegacion aerea, reglas basicas y diferencias entre simulacion civil y militar.
 
