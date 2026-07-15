@@ -7,8 +7,21 @@ y el proyecto usa [Versionado Semántico](https://semver.org/lang/es/).
 
 ## [No publicado]
 
+### Cambiado
+
+- El proyecto pasa a llamarse **Programa de Operación y Simulación de Máquinas**.
+  "Multisimulador" prometía software funcionando y hoy esto es una base
+  documental: no hay ningún simulador ejecutable en el repositorio. El nombre es
+  temporal y se revisará cuando exista al menos un simulador de referencia. Las
+  entradas antiguas de este changelog conservan el nombre con el que se
+  escribieron.
+
 ### Corregido
 
+- Un byte NUL en `CONTRIBUTING.md`, colado por la pasada automática de tildes al
+  anidarse dos marcadores de enmascarado. El validador ahora rechaza cualquier
+  carácter de control en los documentos: ni markdownlint ni el resto de
+  comprobaciones los miran, así que el archivo corrupto pasaba en verde.
 - Ortografía acentuada en los 443 documentos: el corpus estaba escrito sin tildes
   ni enes ("documentacion", "vehiculo", "diseno"). Las rutas, los identificadores
   y el código quedan intactos; los enlaces internos siguen resolviendo.

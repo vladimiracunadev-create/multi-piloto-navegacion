@@ -1,6 +1,6 @@
 # Historia general
 
-Carpeta para sintetizar la evolución de las máquinas incluidas en el multisimulador.
+Carpeta para sintetizar la evolución de las máquinas incluidas en el programa.
 
 ## Objetivo
 

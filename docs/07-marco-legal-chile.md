@@ -1,7 +1,7 @@
 # Marco legal y normativo (Chile)
 
 Referencia técnica del marco legal chileno e internacional aplicable a los
-vehículos del multisimulador. Sirve para diseñar reglamentos de simulación
+vehículos del programa. Sirve para diseñar reglamentos de simulación
 realistas y para orientar la investigación de cada vehículo.
 
 ## Aviso importante

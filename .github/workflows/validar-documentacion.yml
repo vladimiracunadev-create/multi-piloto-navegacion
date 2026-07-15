@@ -48,7 +48,7 @@ jobs:
         if: always()
         run: |
           {
-            echo "### Multisimulador de mandos"
+            echo "### Programa de Operacion y Simulacion de Maquinas"
             echo ""
             echo "- Vehiculos: **$(find vehiculos -mindepth 1 -maxdepth 1 -type d | wc -l)**"
             echo "- Documentos Markdown: **$(find . -name '*.md' -not -path './node_modules/*' | wc -l)**"

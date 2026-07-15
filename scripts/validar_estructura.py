@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Validador de estructura y enlaces internos del multisimulador.
+"""Validador de estructura y enlaces internos del programa.
 
 Verifica, sin dependencias externas, que el repositorio documental mantenga su
 forma esperada:
@@ -197,6 +197,30 @@ def validar_estructura(errores: list[str]) -> None:
                     )
 
 
+def validar_caracteres(errores: list[str]) -> None:
+    """Busca caracteres de control sueltos en los documentos.
+
+    Un .md no tiene ningun motivo para llevar un NUL ni un byte de control: si
+    aparece uno, lo ha dejado un procesado automatico. Ni markdownlint ni el
+    resto de comprobaciones los miran, asi que pasarian en verde con el fichero
+    corrupto. Solo se admiten el salto de linea y el tabulador.
+    """
+    permitidos = {"\n", "\t"}
+    for md in RAIZ.rglob("*.md"):
+        rel_partes = md.relative_to(RAIZ).parts
+        if rel_partes and rel_partes[0] in {".git", "node_modules", ".codex-docs-cache"}:
+            continue
+        texto = md.read_text(encoding="utf-8", errors="replace")
+        for i, ch in enumerate(texto):
+            if ch < " " and ch not in permitidos:
+                rel = md.relative_to(RAIZ).as_posix()
+                linea = texto.count("\n", 0, i) + 1
+                errores.append(
+                    f"Caracter de control U+{ord(ch):04X} en {rel}, linea {linea}"
+                )
+                break
+
+
 def validar_enlaces(errores: list[str]) -> int:
     total = 0
     for md in RAIZ.rglob("*.md"):
@@ -230,6 +254,7 @@ def validar_enlaces(errores: list[str]) -> int:
 def main() -> int:
     errores: list[str] = []
     validar_estructura(errores)
+    validar_caracteres(errores)
     enlaces = validar_enlaces(errores)
 
     vehiculos_ok = sum(
@@ -242,7 +267,7 @@ def main() -> int:
 
     exigidas = len(SECCIONES_VEHICULO) - len(SECCIONES_EN_ESPERA)
 
-    print("Validacion de estructura del multisimulador")
+    print("Validacion de estructura del Programa de Operacion y Simulacion de Maquinas")
     print(f"  Vehiculos verificados  : {vehiculos_ok}/{len(VEHICULOS)}")
     print(f"  Naves de ficcion       : {fantasticos_ok}/{len(FANTASTICOS)}")
     print(f"  Secciones por vehiculo : {len(SECCIONES_VEHICULO)}"

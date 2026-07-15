@@ -2,7 +2,7 @@
 
 ## Documentos generales
 
-- `docs/01-vision-del-proyecto.md`: visión, alcance y filosofía del multisimulador.
+- `docs/01-vision-del-proyecto.md`: visión, alcance y filosofía del programa.
 - `docs/02-metodologia-documental.md`: cómo investigar y documentar cada máquina.
 - `docs/03-niveles-de-realismo.md`: niveles desde arcade educativo hasta simulación avanzada.
 - `docs/04-seguridad-y-limites.md`: límites de seguridad, fuentes y uso responsable.

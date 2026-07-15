@@ -1,6 +1,6 @@
 # Reglamentos generales
 
-Esta carpeta organiza normas, licencias, restricciones y criterios de seguridad aplicables a los vehículos del multisimulador.
+Esta carpeta organiza normas, licencias, restricciones y criterios de seguridad aplicables a los vehículos del programa.
 
 ## Enfoque
 

@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎮 Multisimulador de Mandos y Navegación
+# 🎮 Programa de Operación y Simulación de Máquinas
 
 **Una biblioteca de cursos técnicos para pilotar, conducir y navegar cualquier máquina.**
 
@@ -22,6 +22,12 @@ y diseño de simulación. La meta no es todavía crear juegos, sino ordenar el
 conocimiento para que cada vehículo pueda convertirse en una simulación
 coherente, educativa y segura.
 
+ℹ️ **Aquí todavía no hay ningún simulador que puedas ejecutar.** Esto es la base
+documental que cualquiera de ellos necesitaría antes de existir. El proyecto se
+llamó "Multisimulador" durante su arranque, pero ese nombre prometía software
+funcionando, así que se renombró mientras el código no exista. El módulo 9 de
+cada curso especifica el simulador; construirlo es el paso siguiente.
+
 > 🎓 **Empieza por el curso de referencia:** [🏍️ Motocicletas](vehiculos/motos/README.md)
 > · o revisa la [guía de estilo y estructura de curso](docs/08-guia-de-estilo-y-curso.md).
 
@@ -31,7 +37,7 @@ coherente, educativa y segura.
 
 ```mermaid
 flowchart TD
-    Repo[🎮 Multisimulador] --> Docs[📖 docs/<br/>visión, metodología, marco legal]
+    Repo[🎮 Programa] --> Docs[📖 docs/<br/>visión, metodología, marco legal]
     Repo --> Plant[🧩 plantillas/<br/>modelos reutilizables]
     Repo --> Veh[🚙 vehículos/<br/>29 cursos]
     Repo --> Man[📚 manuales/<br/>fuentes públicas]

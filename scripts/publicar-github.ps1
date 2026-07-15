@@ -42,7 +42,7 @@ if ($LASTEXITCODE -ne 0) {
 
 $hasChanges = git status --porcelain
 if ($hasChanges) {
-    git commit -m "Crear base documental del multisimulador"
+    git commit -m "Crear base documental del programa"
     if ($LASTEXITCODE -ne 0) {
         throw "No se pudo crear el commit. Verifica que Git tenga configurados user.name y user.email."
     }
@@ -57,7 +57,7 @@ gh repo view $repoFullName 2>$null | Out-Null
 $repoExists = $LASTEXITCODE -eq 0
 $ErrorActionPreference = $previousErrorActionPreference
 if (-not $repoExists) {
-    gh repo create $repoFullName --public --description "Repositorio documental multisimulador de mandos y navegación" --source . --remote origin
+    gh repo create $repoFullName --public --description "Base documental del Programa de Operación y Simulación de Máquinas" --source . --remote origin
     if ($LASTEXITCODE -ne 0) {
         throw "No se pudo crear el repositorio publico en GitHub."
     }
