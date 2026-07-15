@@ -16,7 +16,7 @@
 
 ## 🎯 Objetivos de aprendizaje
 
-Al terminar este curso deberias poder:
+Al terminar este curso deberías poder:
 
 - Explicar como un tractor tracciona, tira de aperos y transmite fuerza al campo.
 - Identificar sus sistemas mecánicos, la toma de fuerza y el enganche de tres puntos.

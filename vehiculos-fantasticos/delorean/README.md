@@ -17,7 +17,7 @@
 
 ## 🎯 Objetivos de aprendizaje
 
-Al terminar este curso deberias poder:
+Al terminar este curso deberías poder:
 
 - Explicar que es la energía cinética y por qué alcanzar una velocidad umbral
   no basta para viajar en el tiempo en la física real.

@@ -4,7 +4,7 @@
 
 > ⚖️ Material educativo original; los derechos de las obras pertenecen a sus titulares.
 
-Dónde se usaria un teletransportador y cómo cambia su exigencia según el
+Dónde se usaría un teletransportador y cómo cambia su exigencia según el
 entorno. Cada escenario implica límites físicos distintos, y en simulación se
 traduce en condiciones diferentes de distancia, energía y materia disponible.
 

@@ -24,8 +24,8 @@ stateDiagram-v2
 
 ## Objetivo de la simulación
 
-Que el usuario comprenda, jugando, que el teletransporte moveria información y
-no materia, que reconstruir un cuerpo exigiria energía y datos colosales, y que
+Que el usuario comprenda, jugando, que el teletransporte movería información y
+no materia, que reconstruir un cuerpo exigiría energía y datos colosales, y que
 copiar un patrón plantea el problema del duplicado. El modo ficción sirve para
 engancharse; el modo ciencia, para aprender.
 

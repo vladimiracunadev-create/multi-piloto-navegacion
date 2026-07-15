@@ -18,7 +18,7 @@
 
 ## 🎯 Objetivos de aprendizaje
 
-Al terminar este curso deberias poder:
+Al terminar este curso deberías poder:
 
 - Explicar la ley del cubo-cuadrado y por qué la escala cambia todo.
 - Entender por qué la masa crece mucho más rápido que la superficie al agrandar.

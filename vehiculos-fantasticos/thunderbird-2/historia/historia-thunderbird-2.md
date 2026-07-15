@@ -49,7 +49,7 @@ es real, aunque sin las cifras exageradas de la ficción.
 ## Por qué la ficción eligió el vehículo modular
 
 Contar una historia con un vehículo que trae "justo lo necesario" es fácil de
-seguir: hay preparación, llegada y solución. Un transporte real necesitaria
+seguir: hay preparación, llegada y solución. Un transporte real necesitaría
 horas de carga, cálculo de peso y permisos, lo que resulta menos vistoso en
 pantalla. La ficción prioriza la acción sobre la logística, y eso es una
 decisión artística legítima que este curso respeta y analiza.

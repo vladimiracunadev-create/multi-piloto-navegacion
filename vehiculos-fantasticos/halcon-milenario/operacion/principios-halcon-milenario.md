@@ -67,14 +67,14 @@ lejanos.
 | Frena al soltar el acelerador | Se puede frenar con empuje contrario | No frena solo sin rozamiento. |
 | Salto instantáneo entre estrellas | Se puede viajar por el espacio | No se alcanza la velocidad de la luz con masa. |
 | Propulsión inagotable | El empuje por reacción es real | El propelente es finito (delta-v). |
-| Persecuciones a la vista | Puede haber persecución | Ocurriria a enormes distancias con sensores. |
+| Persecuciones a la vista | Puede haber persecución | Ocurriría a enormes distancias con sensores. |
 
 ## Cómo sería un carguero realista
 
-- Planearia rutas con transferencias largas para ahorrar delta-v.
-- Ajustaria su carga sabiendo que cada tonelada recorta la maniobra.
-- Maniobraria despacio y con antelación, no con giros bruscos.
-- Cuidaria el propelente como su recurso más valioso.
+- Planearía rutas con transferencias largas para ahorrar delta-v.
+- Ajustaría su carga sabiendo que cada tonelada recorta la maniobra.
+- Maniobraría despacio y con antelación, no con giros bruscos.
+- Cuidaría el propelente como su recurso más valioso.
 
 ## Relación con los niveles de realismo
 

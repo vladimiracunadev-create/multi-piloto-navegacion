@@ -15,7 +15,7 @@
 
 ## 🎯 Objetivos de aprendizaje
 
-Al terminar este curso deberias poder:
+Al terminar este curso deberías poder:
 
 - Explicar como un tren de carga arranca, mantiene velocidad y frena gran masa.
 - Identificar sus sistemas mecánicos y cómo se conectan.

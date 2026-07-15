@@ -16,7 +16,7 @@
 
 ## 🎯 Objetivos de aprendizaje
 
-Al terminar este curso deberias poder:
+Al terminar este curso deberías poder:
 
 - Explicar que es un tren de alta velocidad y como acelera, frena y se mantiene estable a más de 250 km/h.
 - Distinguir la tracción distribuida (EMU) de la concentrada (locomotora en cabeza).

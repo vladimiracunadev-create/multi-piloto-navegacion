@@ -19,7 +19,7 @@ física que aparecen en esta nave.
 | Velocidad umbral | Velocidad que la ficción fija como disparador del salto; no tiene rol así en la física real. |
 | Dilatación temporal | Efecto real por el que un reloj en movimiento o cerca de gran masa avanza más lento visto por otros. |
 | Futuro relativo | Consecuencia de la dilatación: envejecer menos que quien queda en reposo. |
-| Curva temporal cerrada | Idea teórica exótica de una trayectoria que regresaria a su propio pasado. |
+| Curva temporal cerrada | Idea teórica exótica de una trayectoria que regresaría a su propio pasado. |
 | Causalidad | Principio de que las causas preceden a sus efectos. |
 | Paradoja del abuelo | Contradicción clásica de impedir el propio origen al viajar al pasado. |
 | Autoconsistencia | Enfoque en el que ninguna acción del viajero puede contradecir la historia ya ocurrida. |

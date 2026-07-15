@@ -19,7 +19,7 @@
 
 ## 🎯 Objetivos de aprendizaje
 
-Al terminar este curso deberias poder:
+Al terminar este curso deberías poder:
 
 - Explicar la fracción de carga útil: cuanta masa aprovechable lleva un vehículo.
 - Entender la ventaja de los módulos intercambiables frente a un vehículo fijo.

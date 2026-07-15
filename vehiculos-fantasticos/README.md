@@ -4,7 +4,7 @@
 
 > Sección **educativa y separada** de los vehículos reales. Aquí exploramos la
 > ingeniería imaginaria de la ciencia ficción: que principios físicos reales
-> evoca cada nave, cuales rompe y cómo se simularia. El objetivo es aprender
+> evoca cada nave, cuales rompe y cómo se simularía. El objetivo es aprender
 > física e ingeniería a través de vehículos famosos, no describir productos
 > reales.
 
@@ -55,7 +55,7 @@ ficción:
 - 🔧 **Sistemas**: la tecnología imaginaria y la física real que evoca o rompe.
 - 🧪 **Principios**: que sería posible, que no, y por qué.
 - ⚖️ **Reglas del universo**: las "leyes" internas de la ficción (en vez de ley real).
-- 🎮 **Simulación**: cómo se modelaria de forma educativa y divertida.
+- 🎮 **Simulación**: cómo se modelaría de forma educativa y divertida.
 
 ---
 

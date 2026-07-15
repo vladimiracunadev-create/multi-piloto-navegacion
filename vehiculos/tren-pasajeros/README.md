@@ -15,7 +15,7 @@
 
 ## 🎯 Objetivos de aprendizaje
 
-Al terminar este curso deberias poder:
+Al terminar este curso deberías poder:
 
 - Explicar como un tren acelera, frena y se guía sobre los rieles.
 - Distinguir la tracción eléctrica de la tracción diesel-electrica.

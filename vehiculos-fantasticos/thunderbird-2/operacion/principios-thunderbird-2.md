@@ -52,9 +52,9 @@ carga útil. El buen diseño busca el equilibrio, no el máximo.
 
 ## Cómo sería una misión de carga realista
 
-- Se calcularia el peso total y el margen de empuje antes de salir.
-- Se repartiria la carga para dejar el centro de masa en zona segura.
-- El anclaje y la verificación del módulo tomarian su tiempo.
+- Se calcularía el peso total y el margen de empuje antes de salir.
+- Se repartiría la carga para dejar el centro de masa en zona segura.
+- El anclaje y la verificación del módulo tomarían su tiempo.
 - Ganar tiempo sería cuestión de logística y planificación, no de improvisar.
 
 ## Relación con los niveles de realismo

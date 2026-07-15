@@ -53,12 +53,12 @@ eléctrica. Un piloto realista cuida el delta-v como su recurso más valioso.
 | Giros cerrados tipo avión | Se puede rotar la nave sobre su eje | No hay viraje bancado sin aire. |
 | Disparos con estela y ruido | Puede haber armas de proyectil | En el vacío no hay sonido ni estela de haz. |
 | Explosiones con llamas y fuego | Puede haber destello y escombros | Sin oxígeno no hay fuego con llamas sostenidas. |
-| Combate cuerpo a cuerpo cercano | Puede haber combate | Ocurriria a enormes distancias y velocidades. |
+| Combate cuerpo a cuerpo cercano | Puede haber combate | Ocurriría a enormes distancias y velocidades. |
 | Propulsión inagotable | El empuje por reacción es real | El propelente es finito (delta-v). |
 
 ## Cómo sería un combate realista
 
-- Las naves se detectarian y dispararian a distancias enormes, no a la vista.
+- Las naves se detectarían y dispararían a distancias enormes, no a la vista.
 - Las maniobras serían lentas y planificadas, no giros bruscos continuos.
 - No habría ruido: el vacío no transmite sonido.
 - Ganar sería cuestión de gestión de energía, delta-v y sensores, no de

@@ -36,7 +36,7 @@ pero **no** describen cómo funciona el mundo real. La física dice otra cosa:
 mandan la relación empuje/peso, el consumo de combustible y el compromiso entre
 velocidad y autonomía. Cuando el curso "corrige" a la ficción no es para criticar
 la obra, sino para aprender la diferencia entre lo que emociona en pantalla y lo
-que ocurriria de verdad.
+que ocurriría de verdad.
 
 ## Cómo lo usa la simulación
 

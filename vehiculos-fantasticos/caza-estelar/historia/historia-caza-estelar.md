@@ -47,7 +47,7 @@ que sirvan donde no hay aire, y no hay freno automático al soltar el acelerador
 ## Por qué la ficción eligió el dogfight
 
 Contar una historia con duelos cerrados es fácil de seguir: hay persecución,
-tensión y giros dramáticos. Un combate espacial realista ocurriria a enormes
+tensión y giros dramáticos. Un combate espacial realista ocurriría a enormes
 distancias, con maniobras lentas y sin ruido, lo que resulta menos vistoso en
 pantalla. La ficción prioriza la emoción sobre la física, y eso es una
 decisión artística legítima que este curso respeta y analiza.

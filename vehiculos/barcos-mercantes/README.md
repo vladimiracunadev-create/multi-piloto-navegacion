@@ -15,7 +15,7 @@
 
 ## 🎯 Objetivos de aprendizaje
 
-Al terminar este curso deberias poder:
+Al terminar este curso deberías poder:
 
 - Explicar como un buque mercante flota, avanza, gobierna y se detiene.
 - Identificar sus sistemas (casco, propulsión, gobierno, carga) y cómo se conectan.

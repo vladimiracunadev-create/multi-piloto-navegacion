@@ -4,7 +4,7 @@
 
 > ⚖️ Material educativo original; los derechos de las obras pertenecen a sus titulares.
 
-En un vehículo real hablariamos de leyes de tránsito y normativas oficiales. Como
+En un vehículo real hablaríamos de leyes de tránsito y normativas oficiales. Como
 esta nave es de ficción, aquí describimos, con nuestras palabras, las "reglas
 internas" que hacen coherente un universo con cazas transformables. No son ley
 real ni especificaciones oficiales: son convenciones narrativas plausibles que

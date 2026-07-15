@@ -23,8 +23,8 @@ justo el objetivo educativo del curso.
 | Regla interna de la ficción | Para que sirve en el relato | Que dice la física real |
 | --- | --- | --- |
 | El cuerpo llega al instante | Evitar tiempos muertos de viaje | Nada supera la velocidad de la luz. |
-| El original se esfuma limpio | Traslado sin resto ni copia | Medir y desarmar exigiria un proceso enorme. |
-| Un solo tú aparece en destino | Evitar el dilema del doble | Copiar el patrón dejaria dos: el duplicado. |
+| El original se esfuma limpio | Traslado sin resto ni copia | Medir y desarmar exigiría un proceso enorme. |
+| Un solo tú aparece en destino | Evitar el dilema del doble | Copiar el patrón dejaría dos: el duplicado. |
 | Reconstrucción siempre perfecta | Que la trama no se complique | La precisión exigida es extrema y frágil. |
 | Un destello basta de energía | No frenar la acción | La energía real sería colosal. |
 | La misma persona es quien llega | Continuidad del personaje | Cuestión abierta de identidad, sin respuesta única. |
@@ -36,7 +36,7 @@ pero **no** describen cómo funciona el universo. La física real dice otra cosa
 mandan la información, la energía, el límite de la velocidad de la luz y el
 teorema de no clonación. Cuando el curso "corrige" a la ficción no es para
 criticar la obra, sino para aprender la diferencia entre lo que resulta cómodo
-en pantalla y lo que ocurriria de verdad.
+en pantalla y lo que ocurriría de verdad.
 
 ## Cómo lo usa la simulación
 

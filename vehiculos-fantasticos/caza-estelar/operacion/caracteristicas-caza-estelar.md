@@ -15,7 +15,7 @@ tecnología por dentro en el Módulo 3.
 Un caza estelar, en la ficción estilo "Star Wars", es una nave pequeña y
 maniobrable pensada para el combate en el espacio. La imaginamos veloz, ágil y
 capaz de girar como un avión de caza. En este curso la usamos como excusa para
-estudiar cómo se moveria de verdad un vehículo así en el vacío.
+estudiar cómo se movería de verdad un vehículo así en el vacío.
 
 ---
 
@@ -27,7 +27,7 @@ estudiar cómo se moveria de verdad un vehículo así en el vacío.
 | Agilidad | Giros cerrados tipo avión | En el vacío no hay aire que permita virar así. |
 | Velocidad "de crucero" | Se frena al soltar el acelerador | Falso: sin rozamiento la nave sigue igual. |
 | Alas o aletas | Grandes superficies visibles | Inutiles sin atmósfera; solo estética o radiadores. |
-| Armamento | Disparos con estela luminosa | La luz viajaria recta y no se veria el haz en el vacío. |
+| Armamento | Disparos con estela luminosa | La luz viajaría recta y no se vería el haz en el vacío. |
 | Propulsión | Un chorro brillante constante | Real solo mientras se gasta propelente. |
 
 ---

@@ -15,7 +15,7 @@
 
 ## 🎯 Objetivos de aprendizaje
 
-Al terminar este curso deberias poder:
+Al terminar este curso deberías poder:
 
 - Explicar como un bus acelera, frena, gira y gestiona su gran masa.
 - Identificar sus sistemas mecánicos, en especial el sistema neumático.

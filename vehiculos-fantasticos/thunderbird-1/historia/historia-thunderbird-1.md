@@ -50,7 +50,7 @@ podían recorrer después.
 
 Contar una historia de rescate con un vehículo que llega en minutos es emocionante:
 hay urgencia, cuenta atrás y una máquina que parece capaz de todo. Un vehículo
-real de despegue vertical sería más lento de preparar, cargaria menos y gastaria
+real de despegue vertical sería más lento de preparar, cargaría menos y gastaría
 mucho combustible en cada vuelo. La ficción prioriza la emoción sobre el balance
 físico, y eso es una decisión artística legítima que este curso respeta y analiza.
 

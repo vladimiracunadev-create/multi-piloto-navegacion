@@ -59,10 +59,10 @@ del cubo-cuadrado otra vez, ahora en forma de calor.
 
 ## Cómo sería una nave gigante realista
 
-- Maniobraria muy despacio, con cambios de rumbo planificados con antelación.
+- Maniobraría muy despacio, con cambios de rumbo planificados con antelación.
 - Tendría una estructura interna enorme solo para sostener su propio peso.
-- Dedicaria gran parte de su superficie a radiar calor.
-- Gastaria cantidades inmensas de propelente para cualquier cambio de velocidad.
+- Dedicaría gran parte de su superficie a radiar calor.
+- Gastaría cantidades inmensas de propelente para cualquier cambio de velocidad.
 
 ## Relación con los niveles de realismo
 

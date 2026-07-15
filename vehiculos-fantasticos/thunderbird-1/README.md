@@ -18,7 +18,7 @@
 
 ## 🎯 Objetivos de aprendizaje
 
-Al terminar este curso deberias poder:
+Al terminar este curso deberías poder:
 
 - Explicar el despegue y aterrizaje vertical por empuje directo hacia abajo.
 - Distinguir la sustentación por empuje directo de la sustentación aerodinámica.

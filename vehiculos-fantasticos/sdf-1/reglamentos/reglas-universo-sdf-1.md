@@ -36,7 +36,7 @@ pero **no** describen cómo funciona el universo. La física real dice otra cosa
 mandan la ley del cubo-cuadrado, la relación empuje/masa, la resistencia de los
 materiales y el límite de disipación de calor. Cuando el curso "corrige" a la
 ficción no es para criticar la obra, sino para aprender la diferencia entre lo
-que impresiona en pantalla y lo que ocurriria de verdad.
+que impresiona en pantalla y lo que ocurriría de verdad.
 
 ## Cómo lo usa la simulación
 

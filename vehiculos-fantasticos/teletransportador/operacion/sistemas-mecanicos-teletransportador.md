@@ -32,7 +32,7 @@ flowchart LR
 ## 1. 🔬 Escaneo del patrón
 
 En la ficción, un haz "lee" al cuerpo en un instante y guarda todo lo que es.
-En la realidad, describir un cuerpo con detalle suficiente exigiria registrar
+En la realidad, describir un cuerpo con detalle suficiente exigiría registrar
 la posición y el estado de una cantidad de partículas descomunal. Además, medir
 con precisión absoluta choca con límites cuánticos: no se puede conocer todo el
 estado de una partícula sin perturbarlo.
@@ -57,14 +57,14 @@ flowchart LR
 ## 2. 🧾 Transmisión de la información
 
 El aparato de ficción "envia" al cuerpo por un haz. Lo que en realidad se
-enviaria es información: una descripción. Y toda información viaja sujeta a un
+enviaría es información: una descripción. Y toda información viaja sujeta a un
 límite duro, la velocidad de la luz. Mover la descripción de un cuerpo humano
 supondria transmitir una cantidad de datos tan enorme que ni con toda la red
-del planeta se lograria en un tiempo razonable.
+del planeta se lograría en un tiempo razonable.
 
 | Idea de la ficción | Que dice la física real |
 | --- | --- |
-| El cuerpo viaja por el haz | Viajaria información, no materia. |
+| El cuerpo viaja por el haz | Viajaría información, no materia. |
 | Llegada instantánea | Ningún dato supera la velocidad de la luz. |
 | Envío ligero y rápido | El volumen de datos sería astronómico. |
 | Sin canal visible | Siempre hace falta un canal físico de transmisión. |
@@ -100,7 +100,7 @@ flowchart TD
 
 La equivalencia entre masa y energía dice que en la materia hay una cantidad de
 energía enorme. Desarmar y rearmar un cuerpo, o siquiera manipular su materia a
-ese nivel, implicaria manejar cantidades de energía comparables a fenómenos
+ese nivel, implicaría manejar cantidades de energía comparables a fenómenos
 astronómicos, muy lejos de un destello discreto de la ficción.
 
 | Concepto de ficción | Física real que evoca | Veredicto |
@@ -121,7 +121,7 @@ desconocido, así que una copia perfecta e independiente no es posible.
 
 | Situación | En la ficción | En la física real |
 | --- | --- | --- |
-| Copiar sin borrar | Aparece uno solo, sin explicar | Quedarian dos: original y copia. |
+| Copiar sin borrar | Aparece uno solo, sin explicar | Quedarían dos: original y copia. |
 | Borrar el original | "Es la misma persona" | Pregunta abierta sobre identidad. |
 | Clonar el estado exacto | Se da por hecho | Prohibido por el teorema de no clonación. |
 | Transferir el estado | No se distingue del transporte | La teleportación cuántica destruye el estado de origen. |
@@ -130,14 +130,14 @@ desconocido, así que una copia perfecta e independiente no es posible.
 
 ## 🔁 Cómo se conecta todo
 
-1. El **escaneo** intentaria leer el patrón completo del objeto.
-2. La **información** obtenida se transmitiria por un canal físico.
-3. La **reconstrucción** ensamblaria materia local según esa descripción.
+1. El **escaneo** intentaría leer el patrón completo del objeto.
+2. La **información** obtenida se transmitiría por un canal físico.
+3. La **reconstrucción** ensamblaría materia local según esa descripción.
 4. La **energía** necesaria para todo el proceso sería colosal.
 5. El **duplicado** y la **no clonación** limitan que sea copia o traslado.
 
 Con esto claro, el [Módulo 4: Mandos](../mandos/manual-mandos-teletransportador.md)
-muestra como el operador manejaria cada sistema.
+muestra como el operador manejaría cada sistema.
 
 ---
 

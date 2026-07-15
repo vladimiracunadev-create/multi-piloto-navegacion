@@ -16,7 +16,7 @@
 
 ## 🎯 Objetivos de aprendizaje
 
-Al terminar este curso deberias poder:
+Al terminar este curso deberías poder:
 
 - Explicar como un avión de pasajeros genera sustentación, avanza, gira y desciende.
 - Identificar el fuselaje presurizado, las alas, las superficies de control y los motores turbofan.

@@ -15,7 +15,7 @@
 
 ## 🎯 Objetivos de aprendizaje
 
-Al terminar este curso deberias poder:
+Al terminar este curso deberías poder:
 
 - Explicar como una moto acelera, frena, gira y mantiene el equilibrio.
 - Identificar sus sistemas mecánicos y cómo se conectan.

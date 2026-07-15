@@ -18,7 +18,7 @@
 
 ## 🎯 Objetivos de aprendizaje
 
-Al terminar este curso deberias poder:
+Al terminar este curso deberías poder:
 
 - Explicar por qué un cuerpo del tamaño de una luna tendría gravedad propia.
 - Entender que es un presupuesto de energía y por qué limita lo que se puede hacer.

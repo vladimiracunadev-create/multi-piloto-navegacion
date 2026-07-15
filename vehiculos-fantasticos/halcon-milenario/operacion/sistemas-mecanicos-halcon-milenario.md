@@ -111,7 +111,7 @@ narrativo para que la historia avance.
 | --- | --- | --- |
 | Viaje entre estrellas | Salto casi instantáneo | Distancias enormes; años incluso a gran velocidad. |
 | Alcanzar la velocidad de la luz | Se activa un dispositivo | Imposible para un objeto con masa. |
-| Energía del salto | Apenas se menciona | Exigiria cantidades de energía desmedidas. |
+| Energía del salto | Apenas se menciona | Exigiría cantidades de energía desmedidas. |
 
 ---
 
@@ -120,7 +120,7 @@ narrativo para que la historia avance.
 En la ficción el piloto lo hace todo con instinto. En la realidad, coordinar
 motores y decenas de propulsores para lograr una maniobra limpia exige una
 computadora que traduzca "quiero ir allí" en encendidos precisos. Los sensores
-no verian a los perseguidores por la ventana, sino a enormes distancias con
+no verían a los perseguidores por la ventana, sino a enormes distancias con
 instrumentos.
 
 | Sistema | En la ficción | En la realidad |
@@ -140,7 +140,7 @@ instrumentos.
 5. El **hiperimpulso** es la licencia creativa que rompe la física conocida.
 
 Con esto claro, el [Módulo 4: Mandos](../mandos/manual-mandos-halcon-milenario.md)
-muestra como el piloto operaria cada sistema.
+muestra como el piloto operaría cada sistema.
 
 ---
 

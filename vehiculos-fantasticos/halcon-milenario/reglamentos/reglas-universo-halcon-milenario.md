@@ -36,7 +36,7 @@ pero **no** describen cómo funciona el universo. La física real dice otra cosa
 mandan la inercia, la relación empuje/masa, la conservación del momento y el
 límite de delta-v, y ningún objeto con masa alcanza la velocidad de la luz.
 Cuando el curso "corrige" a la ficción no es para criticar la obra, sino para
-aprender la diferencia entre lo que emociona en pantalla y lo que ocurriria de
+aprender la diferencia entre lo que emociona en pantalla y lo que ocurriría de
 verdad.
 
 ## Cómo lo usa la simulación

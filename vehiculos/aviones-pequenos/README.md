@@ -16,7 +16,7 @@
 
 ## 🎯 Objetivos de aprendizaje
 
-Al terminar este curso deberias poder:
+Al terminar este curso deberías poder:
 
 - Explicar como un avión genera sustentación, avanza, gira y desciende.
 - Identificar la célula, las alas, las superficies de control y el grupo motor.

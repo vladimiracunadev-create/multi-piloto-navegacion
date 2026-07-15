@@ -35,7 +35,7 @@ Estas reglas son licencias creativas legítimas para contar una buena historia,
 pero **no** describen cómo funciona el mundo. La física real dice otra cosa:
 manda el peso, el reparto de la carga y el límite de empuje y estructura. Cuando
 el curso "corrige" a la ficción no es para criticar la obra, sino para aprender
-la diferencia entre lo que emociona en pantalla y lo que ocurriria de verdad.
+la diferencia entre lo que emociona en pantalla y lo que ocurriría de verdad.
 
 ## Cómo lo usa la simulación
 

@@ -16,7 +16,7 @@
 
 ## 🎯 Objetivos de aprendizaje
 
-Al terminar este curso deberias poder:
+Al terminar este curso deberías poder:
 
 - Explicar como un monoplaza acelera, frena, gira y genera carga aerodinámica.
 - Identificar la unidad de potencia híbrida y los sistemas de recuperación.

@@ -123,7 +123,7 @@ máquina. Cada opción tiene ventajas claras.
 | Neumáticos | Rápida, viaja por camino, ágil en obra. | Menos agarre y estabilidad en terreno suelto. |
 
 - **Presión sobre el suelo**: las orugas reparten el peso en mucha superficie, por
-  eso flotan en barro donde una rueda se hundiria.
+  eso flotan en barro donde una rueda se hundiría.
 - **Traslación**: cada oruga o par de ruedas tiene su motor hidráulico; girar una
   más que otra hace virar la máquina (giro diferencial).
 - **Zapatas**: las placas de la oruga; anchas para suelo blando, angostas para

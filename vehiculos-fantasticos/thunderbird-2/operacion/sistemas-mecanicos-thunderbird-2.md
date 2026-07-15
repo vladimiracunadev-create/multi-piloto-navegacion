@@ -131,7 +131,7 @@ impacto del contacto. Un apoyo insuficiente se hunde o se rompe.
 5. El **tren de aterrizaje** recibe toda la carga al posarse.
 
 Con esto claro, el [Módulo 4: Mandos](../mandos/manual-mandos-thunderbird-2.md)
-muestra como el piloto operaria cada sistema.
+muestra como el piloto operaría cada sistema.
 
 ---
 

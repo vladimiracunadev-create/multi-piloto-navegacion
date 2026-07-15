@@ -18,7 +18,7 @@
 
 ## 🎯 Objetivos de aprendizaje
 
-Al terminar este curso deberias poder:
+Al terminar este curso deberías poder:
 
 - Explicar la aerodinámica básica de un caza: empuje, sustentación y estabilidad.
 - Razonar por qué un cuerpo humanoide es aerodinamicamente pésimo en vuelo.

@@ -17,7 +17,7 @@
 
 ## 🎯 Objetivos de aprendizaje
 
-Al terminar este curso deberias poder:
+Al terminar este curso deberías poder:
 
 - Explicar que es una estación espacial y cómo se mantiene en órbita baja.
 - Identificar sus módulos, paneles solares y sistemas de soporte vital.

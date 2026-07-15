@@ -16,7 +16,7 @@
 
 ## 🎯 Objetivos de aprendizaje
 
-Al terminar este curso deberias poder:
+Al terminar este curso deberías poder:
 
 - Explicar cómo vuela un avión a reacción: sustentación, empuje y control.
 - Conocer la historia pública de la aviación militar y su evolución técnica.

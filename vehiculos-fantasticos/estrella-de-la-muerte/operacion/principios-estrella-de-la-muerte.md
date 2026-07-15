@@ -12,8 +12,8 @@ todo por qué.
 ## Gravedad propia: cuando una nave se vuelve un mundo
 
 Toda masa atrae a lo que la rodea. Una estación del tamaño de una luna tendría
-tanta masa que generaria su propia gravedad apreciable: habría un "abajo" hacia
-su centro y las cosas caerian hacia el. Este es el rasgo que la ficción casi
+tanta masa que generaría su propia gravedad apreciable: habría un "abajo" hacia
+su centro y las cosas caerían hacia el. Este es el rasgo que la ficción casi
 acierta. Pero esa misma masa implica que la estructura debe soportar su propio
 peso, como haría un pequeño planeta, y que moverla exige un empuje descomunal.
 
@@ -53,9 +53,9 @@ problema de ingeniería.
 
 | Idea de la ficción | Que si es real | Que no es real |
 | --- | --- | --- |
-| Se camina con gravedad como en un planeta | A esa masa hay gravedad propia | No haría falta inventar la gravedad; ya existiria. |
+| Se camina con gravedad como en un planeta | A esa masa hay gravedad propia | No haría falta inventar la gravedad; ya existiría. |
 | Energía prácticamente infinita | Se puede producir mucha energía | Siempre hay un presupuesto que repartir. |
-| Un gran consumo sin coste | Se puede concentrar energía | Dejaria sin margen al resto de sistemas. |
+| Un gran consumo sin coste | Se puede concentrar energía | Dejaría sin margen al resto de sistemas. |
 | El calor no es problema | El calor se puede radiar | La superficie no basta para tanto calor. |
 | Se mueve como una nave | Se puede empujar la estación | Su masa la hace lentisima de maniobrar. |
 | Autonomía total | El reciclaje es posible | Sostener millones de personas es colosal. |
@@ -63,8 +63,8 @@ problema de ingeniería.
 ## Cómo sería una estacion-mundo realista
 
 - Tendría gravedad propia y una estructura pensada para su propio peso.
-- Gestionaria la energía como un presupuesto, recortando donde hiciera falta.
-- Dedicaria enormes superficies a radiar calor.
+- Gestionaría la energía como un presupuesto, recortando donde hiciera falta.
+- Dedicaría enormes superficies a radiar calor.
 - Dependería de una logística gigantesca para mantener viva a su población.
 
 ## Relación con los niveles de realismo

@@ -18,7 +18,7 @@
 
 ## 🎯 Objetivos de aprendizaje
 
-Al terminar este curso deberias poder:
+Al terminar este curso deberías poder:
 
 - Explicar las leyes de Newton aplicadas al vacío, sin aire ni rozamiento.
 - Entender por qué no hay alas útiles ni virajes bancados fuera de una atmósfera.
@@ -68,7 +68,7 @@ flowchart TD
 Ninguno formal. Ayuda tener nociones básicas de las leyes de Newton, pero el
 curso las explica desde cero. La idea central es simple y potente: en el vacío
 no hay aire ni rozamiento, así que casi todo lo que muestran las películas de
-cazas espaciales se comportaria de otra forma.
+cazas espaciales se comportaría de otra forma.
 
 ---
 

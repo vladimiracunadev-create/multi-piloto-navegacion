@@ -33,7 +33,7 @@ flowchart TD
 | Problema energético | Energía gigantesca que exige acelerar y frenar una nave grande. |
 | Nave generacional | Nave lenta donde varias generaciones viven durante el viaje. |
 | Impulso superluminico | Idea de ficción para viajar más rápido que la luz. |
-| Métrica de Alcubierre | Idea teórica de deformar el espacio; exigiria energía exótica. |
+| Métrica de Alcubierre | Idea teórica de deformar el espacio; exigiría energía exótica. |
 | Energía exótica | Energía negativa o rara que hoy no sabemos obtener. |
 | Causalidad | Orden de causa y efecto que superar la luz pondria en riesgo. |
 

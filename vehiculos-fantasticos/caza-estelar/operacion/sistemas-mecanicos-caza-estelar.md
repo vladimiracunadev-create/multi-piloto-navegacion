@@ -98,7 +98,7 @@ flowchart TD
 En la ficción el piloto lo hace todo con instinto. En la realidad, coordinar
 decenas de propulsores para lograr una maniobra limpia exige una computadora
 que traduzca "quiero apuntar allí" en encendidos precisos de cada RCS. Los
-sensores no verian al enemigo por la ventana, sino a enormes distancias con
+sensores no verían al enemigo por la ventana, sino a enormes distancias con
 instrumentos.
 
 | Sistema | En la ficción | En la realidad |
@@ -133,7 +133,7 @@ para no recalentarse.
 5. Los **sensores** informan a gran distancia, no por la ventanilla.
 
 Con esto claro, el [Módulo 4: Mandos](../mandos/manual-mandos-caza-estelar.md)
-muestra como el piloto operaria cada sistema.
+muestra como el piloto operaría cada sistema.
 
 ---
 

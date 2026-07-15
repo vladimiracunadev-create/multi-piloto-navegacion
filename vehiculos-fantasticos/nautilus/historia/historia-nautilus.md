@@ -27,7 +27,7 @@ pequeños y de muy poca autonomía. Frente a esa realidad modesta, imagino una
 nave enorme, cómoda y capaz de recorrer los océanos del mundo sin subir a
 puerto. Ese salto de imaginación es lo que hace al Nautilus tan interesante
 para estudiar física: muchas de sus ideas se adelantaron a la ingeniería que
-llegaria decadas después.
+llegaría decadas después.
 
 ## Línea de tiempo
 

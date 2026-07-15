@@ -16,7 +16,7 @@
 
 ## 🎯 Objetivos de aprendizaje
 
-Al terminar este curso deberias poder:
+Al terminar este curso deberías poder:
 
 - Explicar como un crucero flota, avanza, gobierna y se detiene con miles de personas a bordo.
 - Identificar sus sistemas (casco compartimentado, propulsión diesel-electrica, gobierno, hotel) y cómo se conectan.

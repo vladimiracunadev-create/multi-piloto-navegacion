@@ -27,7 +27,7 @@ Mucho antes de que existieran cohetes reales, los escritores ya sonaban con
 llegar a la Luna y a otros planetas. Al principio imaginaban canones enormes o
 máquinas fantasticas. Con el tiempo, a medida que la astronomía revelaba lo
 inmensas que son las distancias, la ficción necesito inventar motores capaces
-de acortar viajes que, en la realidad, tomarian miles de años.
+de acortar viajes que, en la realidad, tomarían miles de años.
 
 ## Línea de tiempo
 

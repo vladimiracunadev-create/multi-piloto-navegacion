@@ -57,7 +57,7 @@ flowchart TD
 ## Que la hace especial
 
 - **Autosuficiencia**: debe producir energía, aire, agua y comida por su cuenta.
-- **Escala del viaje**: piensa en distancias que en la realidad tomarian siglos.
+- **Escala del viaje**: piensa en distancias que en la realidad tomarían siglos.
 - **Doble propulsión**: una parte creíble y lenta, otra imaginaria y rápida.
 - **Foco científico**: más laboratorio que arma.
 - **Vida a bordo**: es también un hogar, no solo una máquina.

@@ -18,7 +18,7 @@
 
 ## 🎯 Objetivos de aprendizaje
 
-Al terminar este curso deberias poder:
+Al terminar este curso deberías poder:
 
 - Explicar por qué llegar al espacio exige velocidad orbital lateral, no solo altura.
 - Entender el papel de la gravedad y del aire durante el ascenso de un cohete.

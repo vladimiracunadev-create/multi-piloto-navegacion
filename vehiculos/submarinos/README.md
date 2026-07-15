@@ -16,7 +16,7 @@
 
 ## 🎯 Objetivos de aprendizaje
 
-Al terminar este curso deberias poder:
+Al terminar este curso deberías poder:
 
 - Explicar como un submarino flota, se sumerge, avanza y emerge.
 - Identificar sus sistemas generales (casco, lastre, propulsión, gobierno).

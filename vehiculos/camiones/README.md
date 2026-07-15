@@ -16,7 +16,7 @@
 
 ## 🎯 Objetivos de aprendizaje
 
-Al terminar este curso deberias poder:
+Al terminar este curso deberías poder:
 
 - Explicar como un camión acelera, frena y gestiona una gran masa cargada.
 - Identificar sus sistemas mecánicos, en especial el motor diesel y el aire.

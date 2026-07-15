@@ -92,7 +92,7 @@ impide que la rueda se salga y el perfil cónico ayuda a centrar el eje.
 
 Detener un tren de alta velocidad exige combinar varios frenos, porque la energía
 cinética es enorme y la distancia de frenado se mide en kilómetros. El freno solo
-de fricción no basta ni disiparia el calor con seguridad.
+de fricción no basta ni disiparía el calor con seguridad.
 
 ```mermaid
 flowchart TD

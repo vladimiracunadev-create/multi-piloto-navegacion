@@ -68,10 +68,10 @@ a órbita es tan caro y por qué las etapas son casi obligatorias.
 
 ## Cómo sería una misión realista
 
-- El cohete subiria vertical unos segundos y luego se inclinaria poco a poco.
+- El cohete subiría vertical unos segundos y luego se inclinaría poco a poco.
 - Iría soltando etapas vacías para no arrastrar peso muerto.
-- Dedicaria la mayor parte del esfuerzo a ganar velocidad horizontal, no altura.
-- El regreso exigiria frenar en el momento justo y disipar el calor con un escudo.
+- Dedicaría la mayor parte del esfuerzo a ganar velocidad horizontal, no altura.
+- El regreso exigiría frenar en el momento justo y disipar el calor con un escudo.
 
 ## Relación con los niveles de realismo
 

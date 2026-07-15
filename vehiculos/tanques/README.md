@@ -16,7 +16,7 @@
 
 ## 🎯 Objetivos de aprendizaje
 
-Al terminar este curso deberias poder:
+Al terminar este curso deberías poder:
 
 - Explicar como un vehículo de orugas se mueve, gira y reparte su peso al suelo.
 - Conocer la historia pública del carro de combate y su evolución técnica.

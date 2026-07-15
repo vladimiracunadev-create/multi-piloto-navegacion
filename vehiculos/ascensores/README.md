@@ -16,7 +16,7 @@
 
 ## 🎯 Objetivos de aprendizaje
 
-Al terminar este curso deberias poder:
+Al terminar este curso deberías poder:
 
 - Explicar como una cabina sube y baja de forma controlada y segura.
 - Identificar cabina, contrapeso, cables, poleas, motor, guías y frenos.

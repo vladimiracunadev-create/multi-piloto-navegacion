@@ -13,7 +13,7 @@ armamento ni táctica. Este módulo da contexto antes de la mecánica (Módulo 3
 Un carro de combate es un vehículo terrestre de orugas, pesado y de alta
 movilidad en terreno difícil. Desde el punto de vista técnico que trata este
 curso, es una plataforma que reparte un gran peso sobre el suelo mediante orugas
-para avanzar donde las ruedas se hundirian.
+para avanzar donde las ruedas se hundirían.
 
 ---
 
@@ -55,7 +55,7 @@ flowchart TD
 
 ## 🎯 Para qué se usa (enfoque público)
 
-- Movilidad en terreno difícil donde una rueda se hundiria.
+- Movilidad en terreno difícil donde una rueda se hundiría.
 - Estudio de la física de vehículos de orugas.
 - Contexto histórico e institucional público.
 - Simulación educativa de conducción todo terreno, sin contenido sensible.

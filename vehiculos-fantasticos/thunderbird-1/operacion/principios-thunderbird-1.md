@@ -60,10 +60,10 @@ además, soporta esfuerzos distintos al subir en vertical y al volar en crucero.
 
 ## Cómo sería una operación realista
 
-- El despegue exigiria comprobar que el empuje supere claramente al peso.
-- El vuelo estacionario se usaria lo justo, por su enorme consumo.
+- El despegue exigiría comprobar que el empuje supere claramente al peso.
+- El vuelo estacionario se usaría lo justo, por su enorme consumo.
 - La transición a crucero se haría pronto para dejar que las alas sostengan.
-- La planificación cuidaria el combustible como recurso más valioso.
+- La planificación cuidaría el combustible como recurso más valioso.
 
 ## Relación con los niveles de realismo
 

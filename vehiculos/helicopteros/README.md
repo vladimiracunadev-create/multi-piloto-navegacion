@@ -15,7 +15,7 @@
 
 ## 🎯 Objetivos de aprendizaje
 
-Al terminar este curso deberias poder:
+Al terminar este curso deberías poder:
 
 - Explicar como un helicóptero genera sustentación y logra el vuelo estacionario.
 - Identificar sus sistemas mecánicos y cómo se conectan.

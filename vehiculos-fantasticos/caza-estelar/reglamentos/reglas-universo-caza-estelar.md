@@ -35,7 +35,7 @@ Estas reglas son licencias creativas legítimas para contar una buena historia,
 pero **no** describen cómo funciona el universo. La física real dice otra cosa:
 manda la inercia, la conservación del momento y el límite de delta-v. Cuando el
 curso "corrige" a la ficción no es para criticar la obra, sino para aprender la
-diferencia entre lo que emociona en pantalla y lo que ocurriria de verdad.
+diferencia entre lo que emociona en pantalla y lo que ocurriría de verdad.
 
 ## Cómo lo usa la simulación
 

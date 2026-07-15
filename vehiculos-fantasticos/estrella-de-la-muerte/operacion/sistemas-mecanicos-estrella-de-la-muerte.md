@@ -35,7 +35,7 @@ flowchart LR
 
 Aquí hay un rasgo que la ficción casi acierta. Cualquier masa atrae a lo que la
 rodea; cuanto mayor es la masa, mayor es su gravedad. Una estación del tamaño de
-una luna tendría tanta masa que generaria su propia gravedad apreciable: existiria
+una luna tendría tanta masa que generaría su propia gravedad apreciable: existiría
 un "abajo" hacia su centro. Eso hace innecesarios muchos trucos, pero también
 significa que la estructura tendría que soportar su propio peso, como un pequeño
 planeta.
@@ -70,7 +70,7 @@ flowchart TD
 | Idea de la ficción | Que dice la física real |
 | --- | --- |
 | Energía ilimitada para todo | Hay un presupuesto; todo compite por el. |
-| Un gran disparo sin consecuencias | Concentrar tanta energía dejaria sin margen a lo demás. |
+| Un gran disparo sin consecuencias | Concentrar tanta energía dejaría sin margen a lo demás. |
 | Recarga instantánea | Acumular y liberar energía lleva tiempo. |
 | El calor del proceso desaparece | Toda esa energía acaba en calor que hay que expulsar. |
 
@@ -80,7 +80,7 @@ flowchart TD
 
 Casi toda la energía que usa la estación termina convertida en calor. Y en el
 vacío el calor solo se puede expulsar por radiación, a través de la superficie
-externa. Una estacion-mundo generaria una cantidad inmensa de calor por dentro,
+externa. Una estacion-mundo generaría una cantidad inmensa de calor por dentro,
 pero su superficie, aunque grande, es limitada. Refrigerar semejante mole sin
 cocerse por dentro sería uno de sus mayores desafíos, y la ficción casi nunca lo
 menciona.
@@ -103,15 +103,15 @@ flowchart LR
 ## 4. 🚀 Propulsión de una masa colosal
 
 Mover algo del tamaño de una luna exige un empuje inimaginable. Como la
-aceleración es el empuje dividido por la masa, la estación se desplazaria muy
-despacio y cambiar su rumbo llevaria muchisimo tiempo. En la ficción se mueve casi
+aceleración es el empuje dividido por la masa, la estación se desplazaría muy
+despacio y cambiar su rumbo llevaría muchisimo tiempo. En la ficción se mueve casi
 como una nave; en la realidad, sería más parecido a mover un cuerpo celeste.
 
 | Sistema | En la ficción | En la realidad |
 | --- | --- | --- |
 | Desplazamiento | Se mueve con relativa soltura | Aceleración mínima por su masa. |
 | Cambio de rumbo | Gira cuando conviene | Reorientar tanta masa lleva mucho tiempo. |
-| Propelente | No se menciona | Mover esa masa gastaria cantidades inmensas. |
+| Propelente | No se menciona | Mover esa masa gastaría cantidades inmensas. |
 
 ---
 
@@ -141,7 +141,7 @@ mucha potencia que tenga.
 
 Con esto claro, el
 [Módulo 4: Mandos](../mandos/manual-mandos-estrella-de-la-muerte.md) muestra como
-se operaria una estación de este tamaño.
+se operaría una estación de este tamaño.
 
 ---
 

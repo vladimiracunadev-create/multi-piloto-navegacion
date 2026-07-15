@@ -58,7 +58,7 @@ rueda de andar donde caminaban operarios.
 ## Impacto en la construcción e industria
 
 La grúa es la máquina que hizo posible la construcción moderna en altura, los
-puertos de contenedores y el montaje industrial pesado. Sin ella no existirian
+puertos de contenedores y el montaje industrial pesado. Sin ella no existirían
 los rascacielos, los puentes de gran luz ni la logística portuaria actual. Su
 evolución está ligada a la seguridad: cada avance busca izar más carga a mayor
 alcance sin aumentar el riesgo de vuelco, hoy controlado por sistemas

@@ -16,7 +16,7 @@
 
 ## 🎯 Objetivos de aprendizaje
 
-Al terminar este curso deberias poder:
+Al terminar este curso deberías poder:
 
 - Explicar como un buque muy grande flota, avanza y mantiene estabilidad.
 - Identificar sus sistemas generales (casco, propulsión, gobierno, cubierta).

@@ -15,7 +15,7 @@
 
 ## 🎯 Objetivos de aprendizaje
 
-Al terminar este curso deberias poder:
+Al terminar este curso deberías poder:
 
 - Explicar como una grúa torre iza cargas en altura manteniendo el equilibrio.
 - Identificar sus sistemas mecánicos (mástil, pluma, contrapluma, carro, giro).

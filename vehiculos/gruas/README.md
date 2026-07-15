@@ -15,7 +15,7 @@
 
 ## 🎯 Objetivos de aprendizaje
 
-Al terminar este curso deberias poder:
+Al terminar este curso deberías poder:
 
 - Explicar como una grúa iza, gira y traslada una carga sin volcar.
 - Identificar sus sistemas mecánicos e hidráulicos y cómo se conectan.

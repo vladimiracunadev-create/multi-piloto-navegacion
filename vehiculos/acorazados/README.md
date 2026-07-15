@@ -16,7 +16,7 @@
 
 ## 🎯 Objetivos de aprendizaje
 
-Al terminar este curso deberias poder:
+Al terminar este curso deberías poder:
 
 - Explicar como un gran buque blindado flota, avanza y mantiene estabilidad.
 - Identificar sus sistemas generales (casco, blindaje, propulsión, gobierno).

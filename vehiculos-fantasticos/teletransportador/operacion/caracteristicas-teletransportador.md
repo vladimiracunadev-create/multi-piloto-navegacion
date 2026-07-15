@@ -28,7 +28,7 @@ transmitir la información que lo describe y reconstruirlo en el destino.
 | Desaparición limpia | El original se esfuma sin resto | Habría que medir y desarmar átomo por átomo. |
 | Reconstrucción perfecta | El cuerpo llega idéntico | Exige una cantidad astronómica de información. |
 | Gasto de energía discreto | Un simple destello | La equivalencia masa-energia implica energía colosal. |
-| Un solo tú al final | Solo aparece uno en el destino | Copiar el patrón dejaria dos: el problema del duplicado. |
+| Un solo tú al final | Solo aparece uno en el destino | Copiar el patrón dejaría dos: el problema del duplicado. |
 | Continuidad de la persona | "Eres tu" quien llega | Filosofía abierta: original, copia o ambos. |
 
 ---

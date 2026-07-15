@@ -22,7 +22,7 @@ describir un cuerpo entero y cómo se transmite.
 
 La equivalencia entre masa y energía dice que en una pequeña cantidad de materia
 se esconde una energía inmensa. Manipular la materia de un cuerpo a nivel de sus
-partículas, para desarmarla o rearmarla, implicaria manejar cantidades de
+partículas, para desarmarla o rearmarla, implicaría manejar cantidades de
 energía comparables a fenómenos astronómicos. El destello discreto de la ficción
 esconde, en la física real, una escala energética que hoy no sabemos dominar.
 
@@ -65,9 +65,9 @@ puede fabricar un duplicado perfecto e independiente de un objeto cuántico.
 
 ## Cómo sería un teletransporte realista
 
-- Se transferiria información o estado, no materia; el original no "viaja".
+- Se transferiría información o estado, no materia; el original no "viaja".
 - El proceso estaría limitado por la velocidad de la luz del canal clásico.
-- Copiar un cuerpo dejaria el dilema del duplicado y chocaria con la no clonación.
+- Copiar un cuerpo dejaría el dilema del duplicado y chocaría con la no clonación.
 - El cuello de botella real serían los datos y la energía, no la distancia.
 
 ## Relación con los niveles de realismo

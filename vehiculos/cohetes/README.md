@@ -17,7 +17,7 @@
 
 ## 🎯 Objetivos de aprendizaje
 
-Al terminar este curso deberias poder:
+Al terminar este curso deberías poder:
 
 - Explicar como un cohete vence la gravedad y alcanza la velocidad orbital.
 - Identificar motores de combustible líquido y sólido, etapas y estructura.

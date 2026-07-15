@@ -30,7 +30,7 @@ flowchart LR
     Reaccion --> Sube[El cohete acelera si el empuje supera el peso]
 ```
 
-Subir alto no basta: si el cohete solo ganara altura, caeria de vuelta. La clave
+Subir alto no basta: si el cohete solo ganara altura, caería de vuelta. La clave
 es ganar **velocidad horizontal** suficiente para entrar en órbita.
 
 ## Fases de operación

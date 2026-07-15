@@ -137,7 +137,7 @@ para posarse.
 5. El **sistema de reentrada** disipa la energía para regresar con seguridad.
 
 Con esto claro, el [Módulo 4: Mandos](../mandos/manual-mandos-thunderbird-3.md)
-muestra cómo la tripulación operaria cada sistema.
+muestra cómo la tripulación operaría cada sistema.
 
 ---
 

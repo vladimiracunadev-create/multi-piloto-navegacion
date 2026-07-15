@@ -15,7 +15,7 @@
 
 ## 🎯 Objetivos de aprendizaje
 
-Al terminar este curso deberias poder:
+Al terminar este curso deberías poder:
 
 - Explicar como un automóvil acelera, frena, gira y transmite la fuerza al suelo.
 - Identificar sus sistemas mecánicos y cómo se conectan entre sí.

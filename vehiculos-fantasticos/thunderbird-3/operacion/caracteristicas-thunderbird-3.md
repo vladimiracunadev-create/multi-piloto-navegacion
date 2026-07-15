@@ -15,7 +15,7 @@ tecnología por dentro en el Módulo 3.
 Un cohete de rescate, en la ficción estilo "Thunderbirds", es un vehículo capaz
 de despegar deprisa, llegar al espacio y regresar para socorrer a quien lo
 necesite. Lo imaginamos potente, veloz y siempre listo. En este curso lo usamos
-como excusa para estudiar como subiria de verdad un vehículo así hasta la órbita.
+como excusa para estudiar como subiría de verdad un vehículo así hasta la órbita.
 
 ---
 

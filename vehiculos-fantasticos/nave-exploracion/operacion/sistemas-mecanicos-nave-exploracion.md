@@ -55,7 +55,7 @@ flowchart LR
 
 - **Que respeta**: la ley de acción y reacción; nada aquí rompe la física.
 - **El problema**: acelerar una nave grande a una fracción de la luz exige
-  cantidades de energía y combustible descomunales, y llevaria muchisimo tiempo.
+  cantidades de energía y combustible descomunales, y llevaría muchisimo tiempo.
 - **Enseñanza**: lo lento y pesado es justo lo realista.
 
 ## 3. 🌌 Impulso superluminico imaginario
@@ -67,7 +67,7 @@ física teórica es la métrica de Alcubierre.
 - **La idea teórica**: en vez de mover la nave por el espacio más rápido que la
   luz (imposible), se deforma el propio espacio, contrayendolo delante y
   expandiendolo detrás, y la nave viaja dentro de una "burbuja".
-- **El obstáculo enorme**: esa deformación exigiria una forma de energía
+- **El obstáculo enorme**: esa deformación exigiría una forma de energía
   negativa o exótica que no sabemos como obtener ni concentrar. En la práctica,
   hoy es solo un ejercicio matemático, no una tecnología.
 

@@ -18,14 +18,14 @@
 
 ## 🎯 Objetivos de aprendizaje
 
-Al terminar este curso deberias poder:
+Al terminar este curso deberías poder:
 
 - Explicar por qué la velocidad de la luz es un límite y no un simple record.
 - Medir distancias interestelares en años luz y captar su escala real.
 - Entender la dilatación temporal: por qué el tiempo pasa distinto a gran velocidad.
 - Estimar la energía gigantesca que exige acelerar una nave grande.
 - Distinguir lo posible (naves generacionales lentas) de lo teórico (métrica de Alcubierre).
-- Comprender por qué superar la luz romperia la causalidad.
+- Comprender por qué superar la luz rompería la causalidad.
 
 ---
 

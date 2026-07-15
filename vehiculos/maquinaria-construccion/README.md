@@ -16,7 +16,7 @@
 
 ## 🎯 Objetivos de aprendizaje
 
-Al terminar este curso deberias poder:
+Al terminar este curso deberías poder:
 
 - Explicar como una máquina de construcción excava, empuja y carga material.
 - Identificar sus sistemas, en especial la hidráulica de trabajo.

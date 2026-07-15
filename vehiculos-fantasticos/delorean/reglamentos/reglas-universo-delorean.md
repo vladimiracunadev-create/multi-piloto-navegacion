@@ -35,7 +35,7 @@ otra cosa.
 | Línea autoconsistente | Todo lo que pasa ya era parte de la historia | El viajero no puede cambiar lo que ya ocurrio. |
 
 La **paradoja del abuelo** es el clásico dilema: si alguien impidiera su propio
-origen, tampoco existiria para impedirlo, lo que genera una contradicción. El
+origen, tampoco existiría para impedirlo, lo que genera una contradicción. El
 enfoque **autoconsistente** la evita afirmando que ninguna acción del viajero
 puede contradecir la historia que ya sucedio.
 

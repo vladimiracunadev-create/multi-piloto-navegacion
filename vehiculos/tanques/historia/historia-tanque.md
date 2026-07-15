@@ -22,7 +22,7 @@ timeline
 El carro de combate aparece a inicios del siglo XX como un vehículo capaz de
 cruzar terreno difícil gracias a las orugas. La idea central, desde el punto de
 vista técnico, es repartir el peso del vehículo sobre una gran superficie para
-moverse por barro y obstáculos donde una rueda se hundiria.
+moverse por barro y obstáculos donde una rueda se hundiría.
 
 ## Línea de tiempo
 

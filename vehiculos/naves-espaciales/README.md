@@ -16,7 +16,7 @@
 
 ## 🎯 Objetivos de aprendizaje
 
-Al terminar este curso deberias poder:
+Al terminar este curso deberías poder:
 
 - Explicar como una nave alcanza la órbita, se mantiene en ella y reingresa.
 - Identificar propulsión cohete, etapas, soporte vital, energía y control de actitud.

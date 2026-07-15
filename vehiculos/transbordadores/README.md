@@ -16,7 +16,7 @@
 
 ## 🎯 Objetivos de aprendizaje
 
-Al terminar este curso deberias poder:
+Al terminar este curso deberías poder:
 
 - Explicar como despega, órbita y reingresa un transbordador reutilizable.
 - Identificar el orbitador, los propulsores, el tanque externo y el escudo térmico.

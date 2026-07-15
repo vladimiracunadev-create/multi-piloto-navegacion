@@ -15,7 +15,7 @@ de abrir la tecnología por dentro en el Módulo 3.
 Un transporte pesado modular, en la ficción estilo "Thunderbirds", es un
 vehículo grande pensado para llevar equipo variado a donde haga falta. Lo
 imaginamos capaz de cargar y soltar contenedores completos según la misión. En
-este curso lo usamos como excusa para estudiar cómo se moveria de verdad un
+este curso lo usamos como excusa para estudiar cómo se movería de verdad un
 vehículo así cuando lleva mucha masa útil.
 
 ---

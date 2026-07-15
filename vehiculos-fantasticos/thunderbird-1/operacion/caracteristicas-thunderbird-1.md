@@ -15,7 +15,7 @@ de abrir la tecnología por dentro en el Módulo 3.
 Thunderbird 1, en la ficción estilo "Thunderbirds", es una nave veloz pensada
 para llegar la primera a una emergencia. La imaginamos capaz de despegar en
 vertical sin pista, subir recta y luego lanzarse a gran velocidad. En este curso
-la usamos como excusa para estudiar cómo se moveria de verdad un vehículo así.
+la usamos como excusa para estudiar cómo se movería de verdad un vehículo así.
 
 ---
 

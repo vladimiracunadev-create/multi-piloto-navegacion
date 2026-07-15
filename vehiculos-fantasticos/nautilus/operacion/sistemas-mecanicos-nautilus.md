@@ -100,7 +100,7 @@ esa geometría reparte la carga y evita puntos débiles.
 
 Aquí aparece una diferencia importante: la novela sugiere profundidades muy
 grandes con gran libertad, mientras que en la realidad cada casco tiene una
-**profundidad límite** más allá de la cual la presión lo aplastaria.
+**profundidad límite** más allá de la cual la presión lo aplastaría.
 
 ---
 

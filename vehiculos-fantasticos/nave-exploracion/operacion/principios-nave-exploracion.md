@@ -22,14 +22,14 @@ alcanzar la velocidad de la luz, y mucho menos superarla de forma directa.
 Las estrellas están lejísimos. Medimos esas distancias en años luz: lo que la
 luz recorre en un anio. La estrella más cercana está a más de cuatro años luz.
 Eso significa que, incluso viajando casi a la velocidad de la luz, un viaje de
-ida tomaria años. A velocidades realistas de hoy, tomaria decenas de miles de
+ida tomaría años. A velocidades realistas de hoy, tomaría decenas de miles de
 años.
 
 ## ⏳ Dilatación temporal
 
 La relatividad trae un giro fascinante: para quien viaja muy rápido, el tiempo
 pasa más despacio que para quien se queda. Si una nave se acercara mucho a la
-velocidad de la luz, su tripulación envejeceria poco mientras en casa pasan
+velocidad de la luz, su tripulación envejecería poco mientras en casa pasan
 siglos. No es truco de ficción: es un efecto real, medido con relojes en
 aviones y satélites, solo que aquí llevado al extremo.
 

@@ -18,7 +18,7 @@
 
 ## 🎯 Objetivos de aprendizaje
 
-Al terminar este curso deberias poder:
+Al terminar este curso deberías poder:
 
 - Explicar la relación empuje/masa y por qué decide la aceleración de una nave.
 - Entender que un carguero cargado acelera menos que uno vacío, y por qué.

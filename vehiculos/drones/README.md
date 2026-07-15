@@ -15,7 +15,7 @@
 
 ## 🎯 Objetivos de aprendizaje
 
-Al terminar este curso deberias poder:
+Al terminar este curso deberías poder:
 
 - Explicar como un dron multirotor genera sustentación y se mantiene estable.
 - Identificar sus sistemas y cómo se conectan: motores, ESC, batería y controladora.

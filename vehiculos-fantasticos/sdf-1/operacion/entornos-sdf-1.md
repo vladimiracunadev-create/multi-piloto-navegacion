@@ -47,7 +47,7 @@ mindmap
 - **Gravedad**: cerca de un planeta la trayectoria se curva y aparecen esfuerzos
   que una mole tan grande sufre de forma desigual en sus extremos.
 - **Atmósfera**: una nave de este tamaño no está pensada para volar en el aire;
-  el rozamiento y el calor la castigarian, y su peso propio sería un problema
+  el rozamiento y el calor la castigarían, y su peso propio sería un problema
   serio bajo gravedad.
 - **Calor**: en el vacío el calor solo sale por radiación; una nave-ciudad
   genera tanto que su superficie apenas basta para disiparlo.

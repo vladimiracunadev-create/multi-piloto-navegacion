@@ -16,7 +16,7 @@
 
 ## 🎯 Objetivos de aprendizaje
 
-Al terminar este curso deberias poder:
+Al terminar este curso deberías poder:
 
 - Explicar como una grúa pórtico ship-to-shore descarga contenedores de un buque.
 - Identificar sus sistemas mecánicos y cómo se conectan sobre los rieles del muelle.

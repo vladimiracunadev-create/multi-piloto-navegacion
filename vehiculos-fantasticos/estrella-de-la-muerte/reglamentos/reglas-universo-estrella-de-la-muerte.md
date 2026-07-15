@@ -23,7 +23,7 @@ justo el objetivo educativo del curso.
 | Regla interna de la ficción | Para que sirve en el relato | Que dice la física real |
 | --- | --- | --- |
 | Energía prácticamente infinita | Poder abrumador | Habría un presupuesto de energía con límites. |
-| Un gran disparo sin coste | Impacto dramático | Concentrar tanta energía dejaria sin margen al resto. |
+| Un gran disparo sin coste | Impacto dramático | Concentrar tanta energía dejaría sin margen al resto. |
 | El calor nunca es problema | No distraer con detalles | Disiparlo sería un reto enorme por la escala. |
 | Maniobra con relativa soltura | Escenas dinámicas | Su masa la hace lentisima de mover. |
 | La estructura aguanta todo | Mantener el escenario | Soportar su propio peso sería muy exigente. |
@@ -36,7 +36,7 @@ pero **no** describen cómo funciona el universo. La física real dice otra cosa
 mandan la gravedad por masa propia, la conservación de la energía, el presupuesto
 de potencia y el límite de disipación de calor. Cuando el curso "corrige" a la
 ficción no es para criticar la obra, sino para aprender la diferencia entre lo que
-impresiona en pantalla y lo que ocurriria de verdad.
+impresiona en pantalla y lo que ocurriría de verdad.
 
 ## Cómo lo usa la simulación
 

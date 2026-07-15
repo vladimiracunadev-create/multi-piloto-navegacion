@@ -18,7 +18,7 @@
 
 ## 🎯 Objetivos de aprendizaje
 
-Al terminar este curso deberias poder:
+Al terminar este curso deberías poder:
 
 - Explicar el principio de Arquímedes y por qué un casco de acero puede flotar.
 - Describir como los tanques de lastre permiten sumergir y emerger la nave.

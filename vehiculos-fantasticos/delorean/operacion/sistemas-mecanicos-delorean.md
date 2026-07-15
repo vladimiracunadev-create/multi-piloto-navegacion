@@ -136,7 +136,7 @@ flowchart LR
    pasado.
 
 Con esto claro, el [Módulo 4: Mandos](../mandos/manual-mandos-delorean.md) muestra
-como el usuario operaria estos sistemas en un tablero conceptual.
+como el usuario operaría estos sistemas en un tablero conceptual.
 
 ---
 

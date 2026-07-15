@@ -51,7 +51,7 @@ flowchart LR
 | --- | --- | --- |
 | "Es como una nave normal pero enorme" | Escalado geométrico | No: la masa crece al cubo, cambia todo. |
 | Estructura que no se dobla | Resistencia de materiales | Muy exigente: el peso propio la castiga. |
-| Se mueve como un bloque sólido | Rigidez estructural | A esa escala flexionaria y crujiria. |
+| Se mueve como un bloque sólido | Rigidez estructural | A esa escala flexionaria y crujiría. |
 
 ---
 
@@ -68,7 +68,7 @@ estructura debe repartir sin romperse.
 | --- | --- |
 | El casco se mueve rígido y perfecto | A gran escala la estructura flexiona y vibra. |
 | Basta con hacer las paredes más gruesas | Más grosor añade más masa; el problema se agrava. |
-| Aguanta cualquier maniobra brusca | Las aceleraciones bruscas generarian esfuerzos enormes. |
+| Aguanta cualquier maniobra brusca | Las aceleraciones bruscas generarían esfuerzos enormes. |
 | El peso propio no importa en el espacio | Sin gravedad no aplasta, pero el empuje si genera cargas. |
 
 ---
@@ -78,7 +78,7 @@ estructura debe repartir sin romperse.
 Mover una masa colosal exige un empuje colosal. Como la aceleración es el empuje
 dividido por la masa, una nave gigantesca acelera muy despacio aunque tenga
 motores enormes. En la ficción la fortaleza maniobra casi como una nave pequeña;
-en la realidad, cambiar su velocidad o su rumbo llevaria mucho tiempo y un gasto
+en la realidad, cambiar su velocidad o su rumbo llevaría mucho tiempo y un gasto
 descomunal de propelente.
 
 ```mermaid
@@ -137,7 +137,7 @@ Refrigerar un gigante es, otra vez, un problema de escala.
 5. El **calor** interno cuesta cada vez más de disipar al crecer la nave.
 
 Con esto claro, el [Módulo 4: Mandos](../mandos/manual-mandos-sdf-1.md)
-muestra cómo se operaria una nave de este tamaño.
+muestra cómo se operaría una nave de este tamaño.
 
 ---
 

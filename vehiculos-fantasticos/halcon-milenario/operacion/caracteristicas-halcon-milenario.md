@@ -16,7 +16,7 @@ Un carguero rápido, en la ficción estilo "Star Wars", es una nave mediana
 pensada para transportar carga y tripulación, pero modificada para correr y
 maniobrar mucho más de lo normal. La imaginamos vieja, remendada y llena de
 sorpresas bajo el capo. En este curso la usamos como excusa para estudiar como
-se moveria de verdad una nave así cuando arrastra masa por el vacío.
+se movería de verdad una nave así cuando arrastra masa por el vacío.
 
 ---
 

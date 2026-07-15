@@ -132,7 +132,7 @@ que evacuar para no dañar la estructura.
 5. Los **sensores** informan de altura, velocidad y entorno.
 
 Con esto claro, el [Módulo 4: Mandos](../mandos/manual-mandos-thunderbird-1.md)
-muestra como el piloto operaria cada sistema.
+muestra como el piloto operaría cada sistema.
 
 ---
 
