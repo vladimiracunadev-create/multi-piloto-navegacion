@@ -1,4 +1,4 @@
-// Config de markdownlint-cli2 para multi-piloto-navegacion.
+// Config de markdownlint-cli2 para machine-operator-program.
 // Aplicada por CI (.github/workflows/validar-documentacion.yml) y localmente.
 {
   "config": {

@@ -17,5 +17,8 @@ trim_trailing_whitespace = false
 indent_size = 4
 
 [*.ps1]
+# Windows PowerShell 5.1 lee los .ps1 sin BOM como ANSI, asi que una tilde en el
+# script saldria como mojibake al ejecutarlo. El BOM la mantiene legible.
+charset = utf-8-bom
 end_of_line = crlf
 indent_size = 4

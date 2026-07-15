@@ -1,6 +1,6 @@
-param(
+﻿param(
     [string]$Owner = "vladimiracunadev-create",
-    [string]$Repo = "multi-piloto-navegacion",
+    [string]$Repo = "machine-operator-program",
     [string]$Branch = "main"
 )
 
@@ -57,7 +57,7 @@ gh repo view $repoFullName 2>$null | Out-Null
 $repoExists = $LASTEXITCODE -eq 0
 $ErrorActionPreference = $previousErrorActionPreference
 if (-not $repoExists) {
-    gh repo create $repoFullName --public --description "Repositorio documental multisimulador de mandos y navegacion" --source . --remote origin
+    gh repo create $repoFullName --public --description "Repositorio documental multisimulador de mandos y navegación" --source . --remote origin
     if ($LASTEXITCODE -ne 0) {
         throw "No se pudo crear el repositorio publico en GitHub."
     }
