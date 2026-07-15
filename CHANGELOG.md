@@ -7,15 +7,6 @@ y el proyecto usa [Versionado Semántico](https://semver.org/lang/es/).
 
 ## [No publicado]
 
-### Añadido
-
-- Módulo 10 de cada curso: **🎯 Ejercicios y autoevaluación**, con preguntas de
-  repaso, casos de operación y ejercicios de diseño de simulación. Las respuestas
-  van plegadas para que el intento preceda a la lectura, y cada una enlaza al
-  módulo que la cubre. En las naves de ficción la sección 2 pide separar la
-  física real de la licencia creativa, en vez de plantear casos de operación.
-- El validador exige la nueva sección `ejercicios/` en los 41 cursos.
-
 ### Corregido
 
 - Ortografía acentuada en los 443 documentos: el corpus estaba escrito sin tildes
@@ -34,6 +25,7 @@ y el proyecto usa [Versionado Semántico](https://semver.org/lang/es/).
 
 ### Añadido
 
+- Módulo 10 de cada curso: **🎯 Ejercicios y autoevaluación**, con preguntas de repaso, casos de operación y ejercicios de diseño de simulación. Las respuestas van plegadas para que el intento preceda a la lectura, y cada una enlaza al módulo que la cubre. En las naves de ficción la sección 2 pide separar la física real de la licencia creativa, en vez de plantear casos de operación. El validador exige la nueva sección `ejercicios/` en los 41 cursos.
 - Seis cursos reales más: 🏎️ Fórmula 1 (reglamento FIA), 🪖 tanques (militar, marco público), 🛗 ascensores (Ley 20.296), 🚀 cohetes lanzadores, 🛬 transbordadores y 🛰️ estación espacial ISS. Total: 29 vehículos reales.
 - Cuatro naves de ficción más: 🌀 teletransportador (ciencia ficción) y la serie ⚡📦🚀 Thunderbird 1, 2 y 3 (análisis físico educativo, contenido original con aviso de derechos). Total: 12 naves de ficción.
 - Curso de 🕹️ drones (RPAS): aeronaves pilotadas a distancia, multirotor y ala fija, con marco DGAC / DAN 151.
